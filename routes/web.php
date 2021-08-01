@@ -7,7 +7,7 @@ use App\Http\Controllers\ImagesController;
 use App\Http\Controllers\OrganizationsController;
 use App\Http\Controllers\ReportsController;
 use App\Http\Controllers\UsersController;
-use Illuminate\Controllers\Homepage\HomepageController;
+use App\Http\Controllers\Homepage\HomepageController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -40,11 +40,12 @@ Route::get('/dashboard', [DashboardController::class, 'index'])
     ->name('dashboard')
     ->middleware('auth');
     
-// Users
-
 // Homepage
-Route::get('/' , [HomepageController::class, 'index'])
-    ->name('home');
+
+Route::get('/', [HomepageController::class, 'index'])
+    ->name('home.index');
+
+// Users
 
 Route::get('users', [UsersController::class, 'index'])
     ->name('users')
