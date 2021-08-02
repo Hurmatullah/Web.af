@@ -1,16 +1,6 @@
 <template>
   <div>
     <headers></headers>
-    <!-- ***** LOADING PAGE ****** -->
-    <div id="spinner-area">
-      <div class="spinner">
-        <div class="double-bounce1"></div>
-        <div class="double-bounce2"></div>
-        <div class="spinner-txt">Antler...</div>
-      </div>
-    </div>
-    <!-- ***** UPLOADED MENU FROM HEADER.HTML ***** -->
-    <header id="header"></header>
     <!-- ***** SLIDER ***** -->
     <section id="owl-demo" class="owl-carousel owl-theme owl-loaded owl-drag">
       <div class="full h-100">
@@ -341,15 +331,15 @@
       </div>
     </section>
     <!-- ***** UPLOADED FOOTER FROM FOOTER.HTML ***** -->
-    <footer id="footer"></footer>
+    <footers id="footer"></footers>
   </div>
 </template>
 
 <script>
-import headers from "./Headers/headers";
+import headers from './Headers/headers'
 export default {
-    components:{
-        headers
-    }
+  components: {
+    headers,
+    },
 }
 </script>

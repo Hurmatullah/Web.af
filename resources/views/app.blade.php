@@ -13,6 +13,19 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=String.prototype.startsWith" defer></script>
 
     <script src="{{ mix('/js/app.js') }}" defer></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/typed.js"></script>
+    <script defer src="js/popper.min.js"></script>
+    <script defer src="js/bootstrap.min.js"></script>
+    <script defer src="js/idangerous.swiper.min.js"></script>
+    <script defer src="js/jquery.countdown.js"></script>
+    <script defer src="js/jquery.magnific-popup.min.js"></script>
+    <script defer src="js/slick.min.js"></script>
+    <script defer src="js/owl.carousel.min.js"></script>
+    <script defer src="js/isotope.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script>new WOW().init();</script>
+    <script defer src="js/scripts.js"></script>
     @routes
 </head>
 <body class="font-sans leading-none text-gray-700 antialiased">
