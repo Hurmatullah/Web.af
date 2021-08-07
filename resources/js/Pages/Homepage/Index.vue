@@ -1,6 +1,6 @@
 <template>
   <div>
-    <headers></headers>
+    <headers> </headers>
     <!-- ***** SLIDER ***** -->
     <section id="owl-demo" class="owl-carousel owl-theme owl-loaded owl-drag">
       <div class="full h-100">

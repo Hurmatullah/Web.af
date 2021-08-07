@@ -26,6 +26,15 @@
     <script src="js/wow.min.js"></script>
     <script>new WOW().init();</script>
     <script defer src="js/scripts.js"></script>
+    <script>
+    var typed3 = new Typed('#typed3', {
+    strings: ["Premium hardware.", "Large performance.", "Fully dedicated."],
+    typeSpeed: 50,
+    backSpeed: 20,
+    smartBackspace: true,
+    loop: true
+    });
+    </script>
     @routes
 </head>
 <body class="font-sans leading-none text-gray-700 antialiased">
