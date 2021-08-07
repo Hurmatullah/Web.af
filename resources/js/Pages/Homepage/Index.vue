@@ -331,7 +331,7 @@
       </div>
     </section>
     <!-- ***** UPLOADED FOOTER FROM FOOTER.HTML ***** -->
-    <footers id="footer"></footers>
+    
   </div>
 </template>
 
