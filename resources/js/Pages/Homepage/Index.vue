@@ -331,15 +331,17 @@
       </div>
     </section>
     <!-- ***** UPLOADED FOOTER FROM FOOTER.HTML ***** -->
-    
+    <footers></footers>
   </div>
 </template>
 
 <script>
 import headers from './Headers/headers'
+import footers from './Footers/footers'
 export default {
   components: {
     headers,
+    footers
     },
 }
 </script>
