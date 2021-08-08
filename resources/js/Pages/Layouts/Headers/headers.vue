@@ -17,6 +17,7 @@
     <link href="css/idangerous.swiper.css" rel="stylesheet" />
     <link href="css/animate.min.css" rel="stylesheet" />
     <link href="css/style.css" rel="stylesheet" />
+    <link href="css/slick.css" rel="stylesheet">
     <!-- Custom color styles -->
     <link href="css/colors/pink.css" rel="stylesheet" title="pink" />
     <link href="css/colors/blue.css" rel="stylesheet" title="blue" />

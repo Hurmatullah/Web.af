@@ -336,8 +336,8 @@
 </template>
 
 <script>
-import headers from './Headers/headers'
-import footers from './Footers/footers'
+import headers from '../Layouts/Headers/headers'
+import footers from '../Layouts/Footers/footers'
 export default {
   components: {
     headers,
