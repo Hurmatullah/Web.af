@@ -54,6 +54,9 @@ Route::get('/shared', [SharedHostingController::class, 'index'])->name('shared')
 // Reseller Hosting
 Route::get('/reseller', [ResellerHostingController::class, 'index'])->name('reseller');
 
+// Dedicated Server
+Route::get('/dedicated', [DedicateHostingController::class, 'index'])->name('dedicated');
+
 // Users
 
 Route::get('users', [UsersController::class, 'index'])

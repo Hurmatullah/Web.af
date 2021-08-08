@@ -64,8 +64,8 @@
                         <div class="service">
                           <img class="svg" src="fonts/svg/dedicated.svg" alt="Dedicated Server">
                           <div class="media-body">
-                            <a class="menu-item" href="dedicated" data-i18n="[html]submenu.dedicated"> </a>
-                            <div class="menu badge feat bg-pink">FILTER</div>
+                            <inertia-link class="menu-item" :href="route('dedicated')" data-i18n="[html]submenu.dedicated"></inertia-link>
+                            <div class="menu badge feat bg-pink"></div>
                             <p>But I must explain to you how all this</p>
                           </div>
                         </div>
