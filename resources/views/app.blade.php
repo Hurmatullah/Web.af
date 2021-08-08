@@ -14,7 +14,7 @@
 
     <script src="{{ mix('/js/app.js') }}" defer></script>
     <script src="js/jquery.min.js"></script>
-    <script src="{{URL::asset('js/typed.js')}}"></script>
+    <script src="{{URL::asset('/js/typed.js')}}"></script>
     <script defer src="js/popper.min.js"></script>
     <script defer src="js/bootstrap.min.js"></script>
     <script defer src="js/idangerous.swiper.min.js"></script>
@@ -35,6 +35,11 @@
     loop: true
     });
     </script>
+    <script>
+        $("#nav-toggle").click(function(){
+        $(".menu-wrap.mobile, .menu-toggle").toggleClass("active");
+        });
+        </script>
     @routes
 </head>
 <body class="font-sans leading-none text-gray-700 antialiased">
