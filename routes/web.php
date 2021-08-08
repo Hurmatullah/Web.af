@@ -9,6 +9,7 @@ use App\Http\Controllers\ReportsController;
 use App\Http\Controllers\UsersController;
 use App\Http\Controllers\Homepage\HomepageController;
 use App\Http\Controllers\Packages\SharedHostingController;
+use App\Http\Controllers\Packages\ResellerHostingController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -47,8 +48,11 @@ Route::get('/', [HomepageController::class, 'index'])
     ->name('home.index');
 
 
-// Packages
+// Shared Hosting
 Route::get('/shared', [SharedHostingController::class, 'index'])->name('shared');
+
+// Reseller Hosting
+Route::get('/reseller', [ResellerHostingController::class, 'index'])->name('reseller');
 
 // Users
 
