@@ -10,6 +10,7 @@ use App\Http\Controllers\UsersController;
 use App\Http\Controllers\Homepage\HomepageController;
 use App\Http\Controllers\Packages\SharedHostingController;
 use App\Http\Controllers\Packages\ResellerHostingController;
+use App\Http\Controllers\Packages\DedicateHostingController;
 use Illuminate\Support\Facades\Route;
 
 /*
