@@ -72,7 +72,7 @@
                         <div class="service">
                           <img class="svg" src="fonts/svg/vps.svg" alt="Cloud VPS">
                           <div class="media-body">
-                            <a class="menu-item" href="vps" data-i18n="[html]submenu.vps"> </a>
+                            <inertia-link class="menu-item" :href="route('vps')" data-i18n="[html]submenu.vps"></inertia-link>
                             <div class="menu badge feat bg-grey">SSD</div>
                             <p>At vero eos et accusamus et iusto odio</p>
                           </div>
