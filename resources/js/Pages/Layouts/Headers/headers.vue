@@ -40,8 +40,14 @@
                 <span class="icon"></span>
                 </button>
                 <ul class="main-menu nav navbar-nav navbar-right">
-                  <li class="menu-item mr-4">
-                    <a class="m-0 pr-1" href="#">Home</a>
+                  <li class="menu-item menu-item-has-children">
+                    <a class="m-0 pr-1 v-stroke" href="#" data-i18n="[html]header.home"> </a>
+                    <div class="badge badge-pill bg-purple mr-4 wow animated shake delay-1s">NEW</div>
+                    <ul class="sub-menu">
+                      <li class="menu-item"><a href="index" data-i18n="[html]submenu.homedefault"> </a></li>
+                      <li class="menu-item"><a href="homevideo" data-i18n="[html]submenu.homevideo"> </a> <div class="menu badge feat bg-pink">NEW</div></li>
+                      <li class="menu-item"><a href="homeimage" data-i18n="[html]submenu.homeimage"> </a> <div class="menu badge feat bg-pink">NEW</div></li>
+                    </ul>
                   </li>
                   <li class="menu-item menu-item-has-children">
                     <a class="m-0 pr-1 v-stroke" href="#" data-i18n="[html]header.services"> </a>
@@ -293,9 +299,17 @@
               </button>
               <ul class="main-menu">
                 <li class="menu-item menu-item-has-children">
+                  <a>Home <div class="badge badge-pill bg-purple">NEW</div></a>
+                  <ul class="sub-menu">
+                    <li class="menu-item"><a href="index">Home Default</a></li>
+                    <li class="menu-item"><a href="homevideo">Home Video</a> <div class="badge inside bg-pink">NEW</div></li>
+                    <li class="menu-item"><a href="homeimage">Home Image</a> <div class="badge inside bg-pink">NEW</div></li>
+                  </ul>
+                </li>
+                <li class="menu-item menu-item-has-children">
                   <a>Hosting <div class="badge badge-pill bg-purple">PRO</div></a>
                   <ul class="sub-menu">
-                    <li class="menu-item"><a href="hosting">Shared Hosting</a></li>
+                    <li class="menu-item"><inertia-link :href="route('shared')">Users</inertia-link></li>
                     <li class="menu-item"><a href="reseller">Cloud Reseller</a></li>
                     <li class="menu-item"><a href="dedicated">Dedicated Server</a></li>
                     <li class="menu-item"><a href="vps">Cloud VPS</a></li>
