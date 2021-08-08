@@ -57,7 +57,7 @@
                         <div class="service">
                           <img class="svg" src="fonts/svg/reseller.svg" alt="Cloud Reseller">
                           <div class="media-body">
-                            <a class="menu-item" href="reseller" data-i18n="[html]submenu.reseller"> </a>
+                            <inertia-link class="menu-item" :href="route('reseller')" data-i18n="[html]submenu.reseller"></inertia-link>
                             <p>Lorem ipsum dolor sit amet, consectetur</p>
                           </div>
                         </div>
