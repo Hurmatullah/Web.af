@@ -15,7 +15,7 @@ class SharedHostingController extends Controller
      */
     public function index()
     {
-        return "Hello world";
+        return Inertia::render('Packages/SharedHosting');
     }
 
     /**

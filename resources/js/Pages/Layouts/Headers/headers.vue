@@ -40,18 +40,11 @@
                 <span class="icon"></span>
                 </button>
                 <ul class="main-menu nav navbar-nav navbar-right">
-                  <li class="menu-item menu-item-has-children">
-                    <a class="m-0 pr-1 v-stroke" href="#" data-i18n="[html]header.home"> </a>
-                    <div class="badge badge-pill bg-purple mr-4 wow animated shake delay-1s">NEW</div>
-                    <ul class="sub-menu">
-                      <li class="menu-item"><a href="index" data-i18n="[html]submenu.homedefault"> </a></li>
-                      <li class="menu-item"><a href="homevideo" data-i18n="[html]submenu.homevideo"> </a> <div class="menu badge feat bg-pink">NEW</div></li>
-                      <li class="menu-item"><a href="homeimage" data-i18n="[html]submenu.homeimage"> </a> <div class="menu badge feat bg-pink">NEW</div></li>
-                    </ul>
+                  <li class="menu-item mr-4 menu-item-has-children">
+                    <a class="m-0 pr-1" href="#">Home</a>
                   </li>
-                  <li class="menu-item menu-item-has-children">
+                  <li class="menu-item menu-item-has-children mr-4">
                     <a class="m-0 pr-1 v-stroke" href="#" data-i18n="[html]header.services"> </a>
-                    <div class="badge badge-pill bg-purple mr-4">PRO</div>
                     <div class="sub-menu menu-large">
                       <div class="service-list">
                         <div class="service">
@@ -89,20 +82,6 @@
                           <div class="media-body">
                             <a class="menu-item" href="wordpress" data-i18n="[html]submenu.wordpress"> </a>
                             <p>On the other hand, we denounce with</p>
-                          </div>
-                        </div>
-                        <div class="service">
-                          <img class="svg" src="fonts/svg/domains.svg" alt="Domains">
-                          <div class="media-body">
-                            <a class="menu-item" href="domains" data-i18n="[html]submenu.domains"> </a>
-                            <p>Lorem ipsum dolor sit amet, consectetur</p>
-                          </div>
-                        </div>
-                        <div class="service">
-                          <img class="svg" src="fonts/svg/code.svg" alt="Developer Hosting">
-                          <div class="media-body">
-                            <a class="menu-item" href="developer" data-i18n="[html]submenu.developer"> </a>
-                            <p>ed ut perspiciatis unde omnis iste natus</p>
                           </div>
                         </div>
                       </div>
