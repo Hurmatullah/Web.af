@@ -80,7 +80,7 @@
                         <div class="service">
                           <img class="svg" src="fonts/svg/wordpress.svg" alt="WordPress Hosting">
                           <div class="media-body">
-                            <a class="menu-item" href="wordpress" data-i18n="[html]submenu.wordpress"> </a>
+                            <inertia-link class="menu-item" :href="route('wordpress')" data-i18n="[html]submenu.wordpress"></inertia-link>
                             <p>On the other hand, we denounce with</p>
                           </div>
                         </div>

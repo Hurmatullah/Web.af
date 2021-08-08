@@ -12,6 +12,7 @@ use App\Http\Controllers\Packages\SharedHostingController;
 use App\Http\Controllers\Packages\ResellerHostingController;
 use App\Http\Controllers\Packages\DedicateHostingController;
 use App\Http\Controllers\Packages\VpsHostingController;
+use App\Http\Controllers\Packages\WordpressHostingController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -61,6 +62,9 @@ Route::get('/dedicated', [DedicateHostingController::class, 'index'])->name('ded
 
 // VPS Server
 Route::get('/vps', [VpsHostingController::class, 'index'])->name('vps');
+
+// Wordpress Hosting
+Route::get('/wordpress', [WordpressHostingController::class, 'index'])->name('wordpress');
 
 // Users
 
