@@ -57,7 +57,7 @@
                         <div class="service">
                           <img class="svg" src="fonts/svg/cloudfiber.svg" alt="Shared Hosting">
                           <div class="media-body">
-                            <a class="menu-item" href="hosting" data-i18n="[html]submenu.hosting"> </a>
+                            <inertia-link class="menu-item" :href="route('shared')" data-i18n="[html]submenu.hosting"></inertia-link>
                             <p>Sed ut perspiciatis unde omnis iste natus</p>
                           </div>
                         </div>

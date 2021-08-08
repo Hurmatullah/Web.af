@@ -8,6 +8,7 @@ use App\Http\Controllers\OrganizationsController;
 use App\Http\Controllers\ReportsController;
 use App\Http\Controllers\UsersController;
 use App\Http\Controllers\Homepage\HomepageController;
+use App\Http\Controllers\Packages\SharedHostingController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -44,6 +45,10 @@ Route::get('/dashboard', [DashboardController::class, 'index'])
 
 Route::get('/', [HomepageController::class, 'index'])
     ->name('home.index');
+
+
+// Packages
+Route::get('/shared', [SharedHostingController::class, 'index'])->name('shared');
 
 // Users
 

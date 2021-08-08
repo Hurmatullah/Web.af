@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Packages;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+use Inertia\Inertia;
 
 class SharedHostingController extends Controller
 {
@@ -14,7 +15,7 @@ class SharedHostingController extends Controller
      */
     public function index()
     {
-        //
+        return "Hello world";
     }
 
     /**
