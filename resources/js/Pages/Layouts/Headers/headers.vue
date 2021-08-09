@@ -1,28 +1,5 @@
 <template>
   <div>
-    <head>
-      <meta charset="utf-8" />
-      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-      <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <title>Antler - Hosting Provider & WHMCS Template</title>
-      <meta name="description" content="" />
-      <link href="img/favicon.ico" rel="shortcut icon" />
-      <!-- Fonts -->
-      <link href="fonts/cloudicon/cloudicon.css" rel="stylesheet" />
-      <link href="fonts/fontawesome/css/all.css" rel="stylesheet" />
-      <link href="fonts/opensans/opensans.css" rel="stylesheet" />
-      <!-- CSS styles -->
-      <link href="css/bootstrap.min.css" rel="stylesheet" />
-      <link href="css/owl.carousel.css" rel="stylesheet" />
-      <link href="css/idangerous.swiper.css" rel="stylesheet" />
-      <link href="css/animate.min.css" rel="stylesheet" />
-      <link href="css/style.css" rel="stylesheet" />
-      <link href="css/slick.css" rel="stylesheet" />
-      <!-- Custom color styles -->
-      <link href="css/colors/pink.css" rel="stylesheet" title="pink" />
-      <link href="css/colors/blue.css" rel="stylesheet" title="blue" />
-      <link href="css/colors/green.css" rel="stylesheet" title="green" />
-    </head>
     <div class="menu-wrap">
       <div class="nav-menu">
         <div class="container">
@@ -90,17 +67,13 @@
                   <li class="menu-item menu-item-has-children">
                     <a class="v-stroke" href="#" data-i18n="[html]submenu.services"></a>
                     <ul class="sub-menu">
-                      <li class="menu-item">
-                        <inertia-link class="menu-item" :href="route('domains-registration')" data-i18n="[html]submenu.domainregistration"></inertia-link>
-                      </li>
-                      <li class="menu-item">
-                        <inertia-link class="menu-item" :href="route('ssl-certificate')" data-i18n="[html]submenu.certificate"></inertia-link>
-                      </li>
+                      <li class="menu-item"><inertia-link class="menu-item" :href="route('domains-registration')" data-i18n="[html]submenu.domainregistration"></inertia-link></li>
+                      <li class="menu-item"><inertia-link class="menu-item" :href="route('ssl-certificate')" data-i18n="[html]submenu.certificate"></inertia-link></li>
                       <!-- <inertia-link class="menu-item" :href="route('ssl')" data-i18n="[html]submenu.ssl"></inertia-link> -->
                       <!-- <li class="menu-item"><a href="email" data-i18n="[html]submenu.email"> </a></li>
                       <li class="menu-item"><a href="magento" data-i18n="[html]submenu.magento"> </a></li> -->
                       <li class="menu-item"><inertia-link class="menu-item" :href="route('gsuite')" data-i18n="[html]submenu.gsuite"></inertia-link></li>
-                      <li class="menu-item"><inertia-link class="menu-item" :href="route('gsuite')" data-i18n="[html]submenu.backup"></inertia-link></li>
+                      <!-- <li class="menu-item"><inertia-link class="menu-item" :href="route('backup')" data-i18n="[html]submenu.backup"></inertia-link></li> -->
                     </ul>
                   </li>
                   <li class="menu-item menu-item-has-children">

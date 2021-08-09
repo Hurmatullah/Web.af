@@ -6,6 +6,23 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 
+    <link href="{{asset('img/favicon.ico')}}" rel="shortcut icon" />
+    <!-- Fonts -->
+    <link href="{{asset('fonts/cloudicon/cloudicon.css')}}" rel="stylesheet" />
+    <link href="{{asset('fonts/fontawesome/css/all.css')}}" rel="stylesheet" />
+    <link href="{{asset('fonts/opensans/opensans.css')}}" rel="stylesheet" />
+    <!-- CSS styles -->
+    <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet" />
+    <link href="{{asset('css/owl.carousel.css')}}" rel="stylesheet" />
+    <link href="{{asset('css/idangerous.swiper.css')}}" rel="stylesheet" />
+    <link href="{{asset('css/animate.min.css')}}" rel="stylesheet" />
+    <link href="{{asset('css/style.css')}}" rel="stylesheet" />
+    <link href="{{asset('css/slick.css')}}" rel="stylesheet" />
+    <!-- Custom color styles -->
+    <link href="{{asset('css/colors/pink.css')}}" rel="stylesheet" title="pink" />
+    <link href="{{asset('css/colors/blue.css')}}" rel="stylesheet" title="blue" />
+    <link href="{{asset('css/colors/green.css')}}" rel="stylesheet" title="green" />
+
     {{-- Inertia --}}
     <script src="https://polyfill.io/v3/polyfill.min.js?features=smoothscroll,NodeList.prototype.forEach,Promise,Object.values,Object.assign" defer></script>
 
@@ -13,19 +30,19 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=String.prototype.startsWith" defer></script>
 
     <script src="{{ mix('/js/app.js') }}" defer></script>
-    <script src="js/jquery.min.js"></script>
-    <script src="{{URL::asset('/js/typed.js')}}"></script>
-    <script defer src="js/popper.min.js"></script>
-    <script defer src="js/bootstrap.min.js"></script>
-    <script defer src="js/idangerous.swiper.min.js"></script>
-    <script defer src="js/jquery.countdown.js"></script>
-    <script defer src="js/jquery.magnific-popup.min.js"></script>
-    <script defer src="js/slick.min.js"></script>
-    <script defer src="js/owl.carousel.min.js"></script>
-    <script defer src="js/isotope.min.js"></script>
-    <script src="js/wow.min.js"></script>
+    <script src="{{ asset('/js/jquery.min.js')}}"></script>
+    <script src="{{ asset('/js/typed.js')}}"></script>
+    <script defer src="{{ asset('js/popper.min.js')}}"></script>
+    <script defer src="{{ asset('js/bootstrap.min.js')}}"></script>
+    <script defer src="{{ asset('js/idangerous.swiper.min.js')}}"></script>
+    <script defer src="{{ asset('js/jquery.countdown.js')}}"></script>
+    <script defer src="{{ asset('js/jquery.magnific-popup.min.js')}}"></script>
+    <script defer src="{{ asset('js/slick.min.js')}}"></script>
+    <script defer src="{{ asset('js/owl.carousel.min.js')}}"></script>
+    <script defer src="{{ asset('js/isotope.min.js')}}"></script>
+    <script src="{{ asset('js/wow.min.js')}}"></script>
     <script>new WOW().init();</script>
-    <script defer src="js/scripts.js"></script>
+    <script defer src="{{ asset('js/scripts.js')}}"></script>
     <script>
     var typed3 = new Typed('#typed3', {
     strings: ["Premium hardware.", "Large performance.", "Fully dedicated."],
