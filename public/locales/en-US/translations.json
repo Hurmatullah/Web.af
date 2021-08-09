@@ -18,7 +18,7 @@
     "wordpress": "WordPress Hosting",
     "domains": "Domains Names",
     "developer": "Developer Hosting",
-    "ssl": "SSL Certificates",
+    "certificate": "SSL Certificates",
     "email": "Enterprise Email",
     "magento": "Magento Pro",
     "database": "Database-as-a-service",
@@ -50,7 +50,7 @@
     "legal": "Legal",
     "blog": "Blog",
     "faq": "FAQ",
-    "iptv": "IPTV Services",
+    "backup": "Disk For Backup",
     "voip": "Virtual Numbers",
     "promos": "Specials"
   }

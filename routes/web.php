@@ -14,6 +14,7 @@ use App\Http\Controllers\Packages\DedicateHostingController;
 use App\Http\Controllers\Packages\VpsHostingController;
 use App\Http\Controllers\Packages\WordpressHostingController;
 use App\Http\Controllers\Services\DomainRegistrationController;
+use App\Http\Controllers\Services\SSLCertificateController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -53,22 +54,32 @@ Route::get('/', [HomepageController::class, 'index'])
 
 
 // Shared Hosting
-Route::get('/shared', [SharedHostingController::class, 'index'])->name('shared');
+Route::get('/shared', [SharedHostingController::class, 'index'])
+    ->name('shared');
 
 // Reseller Hosting
-Route::get('/reseller', [ResellerHostingController::class, 'index'])->name('reseller');
+Route::get('/reseller', [ResellerHostingController::class, 'index'])
+    ->name('reseller');
 
 // Dedicated Server
-Route::get('/dedicated', [DedicateHostingController::class, 'index'])->name('dedicated');
+Route::get('/dedicated', [DedicateHostingController::class, 'index'])
+    ->name('dedicated');
 
 // VPS Server
-Route::get('/vps', [VpsHostingController::class, 'index'])->name('vps');
+Route::get('/vps', [VpsHostingController::class, 'index'])
+    ->name('vps');
 
 // Wordpress Hosting
-Route::get('/wordpress', [WordpressHostingController::class, 'index'])->name('wordpress');
+Route::get('/wordpress', [WordpressHostingController::class, 'index'])
+    ->name('wordpress');
 
 // Domains-Registration
-Route::get('domains-registration', [DomainRegistrationController::class, 'index'])->name('domains-registration');
+Route::get('/domains-registration', [DomainRegistrationController::class, 'index'])
+    ->name('domains-registration');
+
+// SSL Certificate
+Route::get('/ssl-certificate', [SSLCertificateController::class, 'index'])
+    ->name('ssl-certificate');
 
 // Users
 

@@ -1,14 +1,5 @@
 <template>
   <div>
-    <!-- ***** LOADING PAGE ****** -->
-    <div id="spinner-area">
-      <div class="spinner">
-        <div class="double-bounce1"></div>
-        <div class="double-bounce2"></div>
-        <div class="spinner-txt">Antler...</div>
-      </div>
-    </div>
-    <!-- ***** UPLOADED MENU FROM HEADER.HTML ***** -->
     <headers></headers>
     <!-- ***** BANNER ***** -->
     <div class="top-header item7 overlay">
