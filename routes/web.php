@@ -13,6 +13,7 @@ use App\Http\Controllers\Packages\ResellerHostingController;
 use App\Http\Controllers\Packages\DedicateHostingController;
 use App\Http\Controllers\Packages\VpsHostingController;
 use App\Http\Controllers\Packages\WordpressHostingController;
+use App\Http\Controllers\Services\DomainRegistrationController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -65,6 +66,9 @@ Route::get('/vps', [VpsHostingController::class, 'index'])->name('vps');
 
 // Wordpress Hosting
 Route::get('/wordpress', [WordpressHostingController::class, 'index'])->name('wordpress');
+
+// Domains-Registration
+Route::get('domains-registration', [DomainRegistrationController::class, 'index'])->name('domains-registration');
 
 // Users
 
