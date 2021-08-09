@@ -101,7 +101,7 @@
                                     <div class="menu-item" data-i18n="[html]submenu.services"> </div> 
                                   </div><hr>
                                   <ul class="sub-menu">
-                                    <li class="menu-item"><a href="emailsecurity" data-i18n="[html]submenu.emailsecurity"> </a> <div class="badge inside bg-pink">NEW</div></li>
+                                    <inertia-link class="menu-item" :href="route('vps')" data-i18n="[html]submenu.domainregistration"></inertia-link>
                                     <li class="menu-item"><a href="ssl" data-i18n="[html]submenu.ssl"> </a></li>
                                     <li class="menu-item"><a href="email" data-i18n="[html]submenu.email"> </a></li>
                                     <li class="menu-item"><a href="magento" data-i18n="[html]submenu.magento"> </a></li>
