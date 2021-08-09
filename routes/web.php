@@ -15,6 +15,7 @@ use App\Http\Controllers\Packages\VpsHostingController;
 use App\Http\Controllers\Packages\WordpressHostingController;
 use App\Http\Controllers\Services\DomainRegistrationController;
 use App\Http\Controllers\Services\SSLCertificateController;
+use App\Http\Controllers\Services\GsuiteController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -80,6 +81,10 @@ Route::get('/domains-registration', [DomainRegistrationController::class, 'index
 // SSL Certificate
 Route::get('/ssl-certificate', [SSLCertificateController::class, 'index'])
     ->name('ssl-certificate');
+
+// Gsuite
+Route::get('/gsuite', [GsuiteController::class, 'index'])
+    ->name('gsuite');
 
 // Users
 

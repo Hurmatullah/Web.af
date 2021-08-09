@@ -101,13 +101,13 @@
                                     <div class="menu-item" data-i18n="[html]submenu.services"> </div> 
                                   </div><hr>
                                   <ul class="sub-menu">
-                                    <inertia-link class="menu-item" :href="route('domains-registration')" data-i18n="[html]submenu.domainregistration"></inertia-link><br>
-                                    <inertia-link class="menu-item" :href="route('ssl-certificate')" data-i18n="[html]submenu.certificate"></inertia-link>
+                                    <li><inertia-link class="menu-item" :href="route('domains-registration')" data-i18n="[html]submenu.domainregistration"></inertia-link></li>
+                                    <li><inertia-link class="menu-item" :href="route('ssl-certificate')" data-i18n="[html]submenu.certificate"></inertia-link></li>
                                     <!-- <inertia-link class="menu-item" :href="route('ssl')" data-i18n="[html]submenu.ssl"></inertia-link> -->
                                     <!-- <li class="menu-item"><a href="email" data-i18n="[html]submenu.email"> </a></li>
                                     <li class="menu-item"><a href="magento" data-i18n="[html]submenu.magento"> </a></li> -->
-                                    <inertia-link class="menu-item" :href="route('gsuite')" data-i18n="[html]submenu.gsuite"></inertia-link>
-                                    <inertia-link class="menu-item" :href="route('gsuite')" data-i18n="[html]submenu.backup"></inertia-link>
+                                    <li><inertia-link class="menu-item" :href="route('gsuite')" data-i18n="[html]submenu.gsuite"></inertia-link></li>
+                                    <li><inertia-link class="menu-item" :href="route('gsuite')" data-i18n="[html]submenu.backup"></inertia-link></li>
                                   </ul>     
                                 </div>
                               </div>
