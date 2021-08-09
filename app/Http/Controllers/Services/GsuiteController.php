@@ -15,7 +15,7 @@ class GsuiteController extends Controller
      */
     public function index()
     {
-        return Inertia::render('');
+        return Inertia::render('Services/Gsuite');
     }
 
     /**
