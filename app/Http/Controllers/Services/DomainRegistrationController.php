@@ -15,7 +15,7 @@ class DomainRegistrationController extends Controller
      */
     public function index()
     {
-        return Inertia::render('Services/DomainRegistraion');
+        return Inertia::render('Services/DomainRegistration');
     }
 
     /**
