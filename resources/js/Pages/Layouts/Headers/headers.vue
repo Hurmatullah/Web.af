@@ -88,7 +88,7 @@
                     </div>
                   </li>
                   <li class="menu-item menu-item-has-children">
-                    <a class="v-stroke" href="#" data-i18n="[html]header.pages"> </a>
+                    <a class="v-stroke" href="#">Services</a>
                     <div class="sub-menu megamenu-list">
                       <div class="container">
                         <div class="row">
@@ -298,7 +298,7 @@
                   </ul>
                 </li>
                 <li class="menu-item menu-item-has-children">
-                  <a>Pages</a>
+                  <a>Services</a>
                   <ul class="sub-menu">
                     <li class="menu-item"><a href="emailsecurity">Email Security</a> <div class="badge inside bg-purple">NEW</div></li>
                     <li class="menu-item"><a href="ssl">SSL Certificates</a></li>
