@@ -111,7 +111,7 @@
                                   </ul>     
                                 </div>
                               </div>
-                              <div class="col-4 service">
+                              <!-- <div class="col-4 service">
                                 <div class="media-body">
                                   <div class="top-head">
                                     <img class="svg" src="fonts/svg/infrastructure.svg" alt="Infrastructure">
@@ -126,8 +126,8 @@
                                     <li class="menu-item"><a href="voip" data-i18n="[html]submenu.voip"> </a> <div class="badge inside bg-pink">NEW</div></li>
                                   </ul> 
                                 </div>
-                              </div>
-                              <div class="col-4 service">
+                              </div> -->
+                              <!-- <div class="col-4 service">
                                 <div class="media-body">
                                   <div class="top-head">
                                     <img class="svg" src="fonts/svg/global.svg" alt="Global">
@@ -142,7 +142,7 @@
                                     <li class="menu-item"><a href="promos" data-i18n="[html]submenu.promos"> </a> <i class="fas fa-tags c-pink ml-2"></i></li>
                                   </ul>
                                 </div>
-                              </div>
+                              </div> -->
                             </div>
                           </div>
                           <div class="start-offer col-md-3">
