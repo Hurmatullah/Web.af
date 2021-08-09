@@ -1,43 +1,43 @@
 <template>
   <div>
     <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Antler - Hosting Provider & WHMCS Template</title>
-    <meta name="description" content="" />
-    <link href="img/favicon.ico" rel="shortcut icon" />
-    <!-- Fonts -->
-    <link href="fonts/cloudicon/cloudicon.css" rel="stylesheet" />
-    <link href="fonts/fontawesome/css/all.css" rel="stylesheet" />
-    <link href="fonts/opensans/opensans.css" rel="stylesheet" />
-    <!-- CSS styles -->
-    <link href="css/bootstrap.min.css" rel="stylesheet" />
-    <link href="css/owl.carousel.css" rel="stylesheet" />
-    <link href="css/idangerous.swiper.css" rel="stylesheet" />
-    <link href="css/animate.min.css" rel="stylesheet" />
-    <link href="css/style.css" rel="stylesheet" />
-    <link href="css/slick.css" rel="stylesheet">
-    <!-- Custom color styles -->
-    <link href="css/colors/pink.css" rel="stylesheet" title="pink" />
-    <link href="css/colors/blue.css" rel="stylesheet" title="blue" />
-    <link href="css/colors/green.css" rel="stylesheet" title="green" />
-  </head>
-  <div class="menu-wrap">
+      <meta charset="utf-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <title>Antler - Hosting Provider & WHMCS Template</title>
+      <meta name="description" content="" />
+      <link href="img/favicon.ico" rel="shortcut icon" />
+      <!-- Fonts -->
+      <link href="fonts/cloudicon/cloudicon.css" rel="stylesheet" />
+      <link href="fonts/fontawesome/css/all.css" rel="stylesheet" />
+      <link href="fonts/opensans/opensans.css" rel="stylesheet" />
+      <!-- CSS styles -->
+      <link href="css/bootstrap.min.css" rel="stylesheet" />
+      <link href="css/owl.carousel.css" rel="stylesheet" />
+      <link href="css/idangerous.swiper.css" rel="stylesheet" />
+      <link href="css/animate.min.css" rel="stylesheet" />
+      <link href="css/style.css" rel="stylesheet" />
+      <link href="css/slick.css" rel="stylesheet" />
+      <!-- Custom color styles -->
+      <link href="css/colors/pink.css" rel="stylesheet" title="pink" />
+      <link href="css/colors/blue.css" rel="stylesheet" title="blue" />
+      <link href="css/colors/green.css" rel="stylesheet" title="green" />
+    </head>
+    <div class="menu-wrap">
       <div class="nav-menu">
         <div class="container">
           <div class="row">
             <div class="col-2 col-md-2">
               <a href="index">
-                <img class="svg logo-menu" src="img/logo.svg" alt="logo Antler">
+                <img class="svg logo-menu" src="img/logo.svg" alt="logo Antler" />
               </a>
             </div>
             <nav id="menu" class="col-10 col-md-10">
               <div class="navigation float-right">
                 <button class="menu-toggle">
-                <span class="icon"></span>
-                <span class="icon"></span>
-                <span class="icon"></span>
+                  <span class="icon"></span>
+                  <span class="icon"></span>
+                  <span class="icon"></span>
                 </button>
                 <ul class="main-menu nav navbar-nav navbar-right">
                   <li class="menu-item mr-4 menu-item-has-children">
@@ -48,21 +48,21 @@
                     <div class="sub-menu menu-large">
                       <div class="service-list">
                         <div class="service">
-                          <img class="svg" src="fonts/svg/cloudfiber.svg" alt="Shared Hosting">
+                          <img class="svg" src="fonts/svg/cloudfiber.svg" alt="Shared Hosting" />
                           <div class="media-body">
                             <inertia-link class="menu-item" :href="route('shared')" data-i18n="[html]submenu.hosting"></inertia-link>
                             <p>Sed ut perspiciatis unde omnis iste natus</p>
                           </div>
                         </div>
                         <div class="service">
-                          <img class="svg" src="fonts/svg/reseller.svg" alt="Cloud Reseller">
+                          <img class="svg" src="fonts/svg/reseller.svg" alt="Cloud Reseller" />
                           <div class="media-body">
-                          <inertia-link class="menu-item" :href="route('reseller')" data-i18n="[html]submenu.reseller"></inertia-link>
+                            <inertia-link class="menu-item" :href="route('reseller')" data-i18n="[html]submenu.reseller"></inertia-link>
                             <p>Lorem ipsum dolor sit amet, consectetur</p>
                           </div>
                         </div>
                         <div class="service">
-                          <img class="svg" src="fonts/svg/dedicated.svg" alt="Dedicated Server">
+                          <img class="svg" src="fonts/svg/dedicated.svg" alt="Dedicated Server" />
                           <div class="media-body">
                             <inertia-link class="menu-item" :href="route('dedicated')" data-i18n="[html]submenu.dedicated"></inertia-link>
                             <div class="menu badge feat bg-pink"></div>
@@ -70,7 +70,7 @@
                           </div>
                         </div>
                         <div class="service">
-                          <img class="svg" src="fonts/svg/vps.svg" alt="Cloud VPS">
+                          <img class="svg" src="fonts/svg/vps.svg" alt="Cloud VPS" />
                           <div class="media-body">
                             <inertia-link class="menu-item" :href="route('vps')" data-i18n="[html]submenu.vps"></inertia-link>
                             <div class="menu badge feat bg-grey">SSD</div>
@@ -78,7 +78,7 @@
                           </div>
                         </div>
                         <div class="service">
-                          <img class="svg" src="fonts/svg/wordpress.svg" alt="WordPress Hosting">
+                          <img class="svg" src="fonts/svg/wordpress.svg" alt="WordPress Hosting" />
                           <div class="media-body">
                             <inertia-link class="menu-item" :href="route('wordpress')" data-i18n="[html]submenu.wordpress"></inertia-link>
                             <p>On the other hand, we denounce with</p>
@@ -88,86 +88,42 @@
                     </div>
                   </li>
                   <li class="menu-item menu-item-has-children">
-                    <a class="v-stroke" href="#">Services</a>
-                    <div class="sub-menu megamenu-list">
-                      <div class="container">
-                        <div class="row">
-                          <div class="service-list col-md-9">
-                            <div class="row">
-                              <div class="col-4 service">
-                                <div class="media-body">
-                                  <div class="top-head">
-                                    <img class="svg" src="fonts/svg/favorite.svg" alt="Services">
-                                    <div class="menu-item" data-i18n="[html]submenu.services"> </div> 
-                                  </div><hr>
-                                  <ul class="sub-menu">
-                                    <li><inertia-link class="menu-item" :href="route('domains-registration')" data-i18n="[html]submenu.domainregistration"></inertia-link></li>
-                                    <li><inertia-link class="menu-item" :href="route('ssl-certificate')" data-i18n="[html]submenu.certificate"></inertia-link></li>
-                                    <!-- <inertia-link class="menu-item" :href="route('ssl')" data-i18n="[html]submenu.ssl"></inertia-link> -->
-                                    <!-- <li class="menu-item"><a href="email" data-i18n="[html]submenu.email"> </a></li>
-                                    <li class="menu-item"><a href="magento" data-i18n="[html]submenu.magento"> </a></li> -->
-                                    <li><inertia-link class="menu-item" :href="route('gsuite')" data-i18n="[html]submenu.gsuite"></inertia-link></li>
-                                    <li><inertia-link class="menu-item" :href="route('gsuite')" data-i18n="[html]submenu.backup"></inertia-link></li>
-                                  </ul>     
-                                </div>
-                              </div>
-                              <!-- <div class="col-4 service">
-                                <div class="media-body">
-                                  <div class="top-head">
-                                    <img class="svg" src="fonts/svg/infrastructure.svg" alt="Infrastructure">
-                                    <div class="menu-item" data-i18n="[html]submenu.infrastructure"> </div>
-                                  </div><hr>
-                                  <ul class="sub-menu">
-                                    <li class="menu-item"><a href="ddos" data-i18n="[html]submenu.ddos"> </a></li>
-                                    <li class="menu-item"><a href="datacenter" data-i18n="[html]submenu.datacenter"> </a> <div class="badge inside bg-grey">TOP</div></li>
-                                    <li class="menu-item"><a href="about" data-i18n="[html]submenu.about"> </a></li>
-                                    <li class="menu-item"><a href="database" data-i18n="[html]submenu.database"> </a></li>
-                                    <li class="menu-item"><a href="elements" data-i18n="[html]submenu.elements"> </a></li>
-                                    <li class="menu-item"><a href="voip" data-i18n="[html]submenu.voip"> </a> <div class="badge inside bg-pink">NEW</div></li>
-                                  </ul> 
-                                </div>
-                              </div> -->
-                              <!-- <div class="col-4 service">
-                                <div class="media-body">
-                                  <div class="top-head">
-                                    <img class="svg" src="fonts/svg/global.svg" alt="Global">
-                                    <div class="menu-item" data-i18n="[html]submenu.others"> </div>
-                                  </div><hr>
-                                  <ul class="sub-menu">
-                                    <li class="menu-item"><a href="payments" data-i18n="[html]submenu.payments"> </a> <div class="badge inside bg-pink">NEW</div></li>
-                                    <li class="menu-item"><a href="configurator" data-i18n="[html]submenu.config"> </a> <div class="badge inside bg-grey">HOT</div></li>
-                                    <li class="menu-item"><a href="cart" data-i18n="[html]submenu.cart"> </a></li>
-                                    <li class="menu-item"><a href="checkout" data-i18n="[html]submenu.checkout"> </a></li>
-                                    <li class="menu-item"><a href="soon" data-i18n="[html]submenu.soon"> </a></li>
-                                    <li class="menu-item"><a href="promos" data-i18n="[html]submenu.promos"> </a> <i class="fas fa-tags c-pink ml-2"></i></li>
-                                  </ul>
-                                </div>
-                              </div> -->
-                            </div>
-                          </div>
-                          <div class="start-offer col-md-3">
-                            <div class="inner">
-                              <div class="title mb-2">Cloud VPS SSD</div>
-                              <h5><small> Get 50% Discount</small></h5>
-                              <div class="inner-content mb-2">Enjoy increased flexibility and get the performance you need with SSD Storage.</div>
-                              <span class="m-0">Before <del class="c-pink">$20.00 /mo</del></span><br>
-                              <h5 class="m-0">Now <b class="c-pink">$9.99 /mo</b></h5>
-                              <a href="vps" class="btn btn-default-pink-fill mt-4">See Plans</a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                    <a class="v-stroke" href="#" data-i18n="[html]submenu.services"></a>
+                    <ul class="sub-menu">
+                      <li class="menu-item">
+                        <inertia-link class="menu-item" :href="route('domains-registration')" data-i18n="[html]submenu.domainregistration"></inertia-link>
+                      </li>
+                      <li class="menu-item">
+                        <inertia-link class="menu-item" :href="route('ssl-certificate')" data-i18n="[html]submenu.certificate"></inertia-link>
+                      </li>
+                      <!-- <inertia-link class="menu-item" :href="route('ssl')" data-i18n="[html]submenu.ssl"></inertia-link> -->
+                      <!-- <li class="menu-item"><a href="email" data-i18n="[html]submenu.email"> </a></li>
+                      <li class="menu-item"><a href="magento" data-i18n="[html]submenu.magento"> </a></li> -->
+                      <li class="menu-item"><inertia-link class="menu-item" :href="route('gsuite')" data-i18n="[html]submenu.gsuite"></inertia-link></li>
+                      <li class="menu-item"><inertia-link class="menu-item" :href="route('gsuite')" data-i18n="[html]submenu.backup"></inertia-link></li>
+                    </ul>
                   </li>
                   <li class="menu-item menu-item-has-children">
                     <a class="v-stroke" href="#" data-i18n="[html]header.features"></a>
                     <ul class="sub-menu">
-                      <li class="menu-item"><a href="http://inebur.com/whmcs/?systpl=antler" target="_blank" data-i18n="[html]submenu.whmcs"> </a> <div class="menu badge feat bg-pink">HOT</div></li>
-                      <li class="menu-item"><a href="http://inebur.com/whmcs/cart.php?gid=2" target="_blank" data-i18n="[html]submenu.orderform"> </a><div class="menu badge feat bg-grey">TOP</div></li>
-                      <li class="menu-item"><a href="http://inebur.com/antler/email/" target="_blank" data-i18n="[html]submenu.whmcsemail"> </a><div class="menu badge feat bg-grey">TOP</div></li>
+                      <li class="menu-item">
+                        <a href="http://inebur.com/whmcs/?systpl=antler" target="_blank" data-i18n="[html]submenu.whmcs"> </a>
+                        <div class="menu badge feat bg-pink">HOT</div>
+                      </li>
+                      <li class="menu-item">
+                        <a href="http://inebur.com/whmcs/cart.php?gid=2" target="_blank" data-i18n="[html]submenu.orderform"> </a>
+                        <div class="menu badge feat bg-grey">TOP</div>
+                      </li>
+                      <li class="menu-item">
+                        <a href="http://inebur.com/antler/email/" target="_blank" data-i18n="[html]submenu.whmcsemail"> </a>
+                        <div class="menu badge feat bg-grey">TOP</div>
+                      </li>
                       <li class="menu-item"><a href="pricing" data-i18n="[html]submenu.pricing"> </a></li>
                       <li class="menu-item"><a href="sliders" data-i18n="[html]submenu.sliders"> </a></li>
-                      <li class="menu-item"><a href="configurator" data-i18n="[html]submenu.config"> </a> <div class="menu badge feat bg-pink">NEW</div></li>
+                      <li class="menu-item">
+                        <a href="configurator" data-i18n="[html]submenu.config"> </a>
+                        <div class="menu badge feat bg-pink">NEW</div>
+                      </li>
                       <li class="menu-item"><a href="404" data-i18n="[html]submenu.error"> </a></li>
                       <li class="menu-item"><a href="login" data-i18n="[html]submenu.register"> </a></li>
                       <li class="menu-item"><a href="login" data-i18n="[html]header.login"> </a></li>
@@ -184,7 +140,7 @@
                             <div class="row">
                               <div class="col-4 service">
                                 <div class="media-left">
-                                  <img class="svg" src="fonts/svg/bookmark.svg" alt="Knowledgebase">
+                                  <img class="svg" src="fonts/svg/bookmark.svg" alt="Knowledgebase" />
                                 </div>
                                 <div class="media-body">
                                   <a class="menu-item" href="knowledgebase-list" data-i18n="[html]submenu.knowlist"> </a>
@@ -193,7 +149,7 @@
                               </div>
                               <div class="col-4 service">
                                 <div class="media-left">
-                                  <img class="svg" src="fonts/svg/book.svg" alt="Knowledgebase">
+                                  <img class="svg" src="fonts/svg/book.svg" alt="Knowledgebase" />
                                 </div>
                                 <div class="media-body">
                                   <a class="menu-item" href="knowledgebase-article" data-i18n="[html]submenu.knowarticle"> </a>
@@ -202,7 +158,7 @@
                               </div>
                               <div class="col-4 service">
                                 <div class="media-left">
-                                  <img class="svg" src="fonts/svg/emailopen.svg" alt="Knowledgebase">
+                                  <img class="svg" src="fonts/svg/emailopen.svg" alt="Knowledgebase" />
                                 </div>
                                 <div class="media-body">
                                   <a class="menu-item" href="contact" data-i18n="[html]submenu.contact"> </a>
@@ -211,7 +167,7 @@
                               </div>
                               <div class="col-4 service">
                                 <div class="media-left">
-                                  <img class="svg" src="fonts/svg/compare.svg" alt="Knowledgebase">
+                                  <img class="svg" src="fonts/svg/compare.svg" alt="Knowledgebase" />
                                 </div>
                                 <div class="media-body">
                                   <a class="menu-item" href="legal" data-i18n="[html]submenu.legal"> </a>
@@ -221,7 +177,7 @@
                               </div>
                               <div class="col-4 service">
                                 <div class="media-left">
-                                  <img class="svg" src="fonts/svg/blog.svg" alt="Knowledgebase">
+                                  <img class="svg" src="fonts/svg/blog.svg" alt="Knowledgebase" />
                                 </div>
                                 <div class="media-body">
                                   <div>
@@ -233,7 +189,7 @@
                               </div>
                               <div class="col-4 service">
                                 <div class="media-left">
-                                  <img class="svg" src="fonts/svg/question.svg" alt="Knowledgebase">
+                                  <img class="svg" src="fonts/svg/question.svg" alt="Knowledgebase" />
                                 </div>
                                 <div class="media-body">
                                   <a class="menu-item" href="faq" data-i18n="[html]submenu.faq"> </a>
@@ -254,7 +210,9 @@
                     </div>
                   </li>
                   <li class="menu-item">
-                    <a class="pr-0 mr-0" href="login"> <div class="btn btn-default-yellow-fill question" data-i18n="[html]header.login"><i class="fas fa-lock pr-1"></i> </div></a>
+                    <a class="pr-0 mr-0" href="login">
+                      <div class="btn btn-default-yellow-fill question" data-i18n="[html]header.login"><i class="fas fa-lock pr-1"></i></div
+                    ></a>
                   </li>
                 </ul>
               </div>
@@ -268,26 +226,38 @@
       <div class="container">
         <div class="row">
           <div class="col-6">
-            <a href="index"><img class="svg logo-menu" src="img/logo.svg" alt="logo Antler"></a>
+            <a href="index"><img class="svg logo-menu" src="img/logo.svg" alt="logo Antler"/></a>
           </div>
           <div class="col-6">
             <nav class="nav-menu">
               <button id="nav-toggle" class="menu-toggle">
-              <span class="icon"></span>
-              <span class="icon"></span>
-              <span class="icon"></span>
+                <span class="icon"></span>
+                <span class="icon"></span>
+                <span class="icon"></span>
               </button>
               <ul class="main-menu">
                 <li class="menu-item menu-item-has-children">
-                  <a>Home <div class="badge badge-pill bg-purple">NEW</div></a>
+                  <a
+                    >Home
+                    <div class="badge badge-pill bg-purple">NEW</div></a
+                  >
                   <ul class="sub-menu">
                     <li class="menu-item"><a href="index">Home Default</a></li>
-                    <li class="menu-item"><a href="homevideo">Home Video</a> <div class="badge inside bg-pink">NEW</div></li>
-                    <li class="menu-item"><a href="homeimage">Home Image</a> <div class="badge inside bg-pink">NEW</div></li>
+                    <li class="menu-item">
+                      <a href="homevideo">Home Video</a>
+                      <div class="badge inside bg-pink">NEW</div>
+                    </li>
+                    <li class="menu-item">
+                      <a href="homeimage">Home Image</a>
+                      <div class="badge inside bg-pink">NEW</div>
+                    </li>
                   </ul>
                 </li>
                 <li class="menu-item menu-item-has-children">
-                  <a>Hosting <div class="badge badge-pill bg-purple">PRO</div></a>
+                  <a
+                    >Hosting
+                    <div class="badge badge-pill bg-purple">PRO</div></a
+                  >
                   <ul class="sub-menu">
                     <li class="menu-item"><inertia-link :href="route('shared')">Users</inertia-link></li>
                     <li class="menu-item"><a href="reseller">Cloud Reseller</a></li>
@@ -301,20 +271,41 @@
                 <li class="menu-item menu-item-has-children">
                   <a>Services</a>
                   <ul class="sub-menu">
-                    <li class="menu-item"><a href="emailsecurity">Email Security</a> <div class="badge inside bg-purple">NEW</div></li>
+                    <li class="menu-item">
+                      <a href="emailsecurity">Email Security</a>
+                      <div class="badge inside bg-purple">NEW</div>
+                    </li>
                     <li class="menu-item"><a href="ssl">SSL Certificates</a></li>
                     <li class="menu-item"><a href="email">Enterprise Email</a></li>
                     <li class="menu-item"><a href="magento">Magento Pro</a></li>
-                    <li class="menu-item"><a href="gsuite">G Suite - Google</a> <div class="badge inside bg-purple">NEW</div></li>
-                    <li class="menu-item"><a href="iptv">IPTV System</a> <div class="badge inside bg-pink">NEW</div></li>
+                    <li class="menu-item">
+                      <a href="gsuite">G Suite - Google</a>
+                      <div class="badge inside bg-purple">NEW</div>
+                    </li>
+                    <li class="menu-item">
+                      <a href="iptv">IPTV System</a>
+                      <div class="badge inside bg-pink">NEW</div>
+                    </li>
                     <li class="menu-item"><a href="ddos">DDoS Protection</a></li>
-                    <li class="menu-item"><a href="datacenter">Datacenter</a> <div class="badge inside bg-grey">TOP</div></li>
+                    <li class="menu-item">
+                      <a href="datacenter">Datacenter</a>
+                      <div class="badge inside bg-grey">TOP</div>
+                    </li>
                     <li class="menu-item"><a href="about">About Us</a></li>
                     <li class="menu-item"><a href="database">Database-as-a-Service</a></li>
                     <li class="menu-item"><a href="elements">Elements</a></li>
-                    <li class="menu-item"><a href="voip">Virtual Numbers</a> <div class="badge inside bg-pink">NEW</div></li>
-                    <li class="menu-item"><a href="payments">Payment Methods</a> <div class="badge inside bg-pink">NEW</div></li>
-                    <li class="menu-item"><a href="configurator">Configurator</a> <div class="badge inside bg-grey">HOT</div></li>
+                    <li class="menu-item">
+                      <a href="voip">Virtual Numbers</a>
+                      <div class="badge inside bg-pink">NEW</div>
+                    </li>
+                    <li class="menu-item">
+                      <a href="payments">Payment Methods</a>
+                      <div class="badge inside bg-pink">NEW</div>
+                    </li>
+                    <li class="menu-item">
+                      <a href="configurator">Configurator</a>
+                      <div class="badge inside bg-grey">HOT</div>
+                    </li>
                     <li class="menu-item"><a href="cart">Cart</a></li>
                     <li class="menu-item"><a href="checkout">Checkout</a></li>
                     <li class="menu-item"><a href="soon">Coming Soon</a></li>
@@ -362,26 +353,20 @@
     </div>
     <!-- ***** COLORS ****** -->
     <section>
-        <ul class="color-scheme">            
-          <li class="pink"><a href="#" data-rel="pink" class="styleswitch"></a></li>
-          <li class="blue"><a href="#" data-rel="blue" class="styleswitch"></a></li>
-          <li class="green"><a href="#" data-rel="green" class="styleswitch"></a></li>
-        </ul> 
+      <ul class="color-scheme">
+        <li class="pink"><a href="#" data-rel="pink" class="styleswitch"></a></li>
+        <li class="blue"><a href="#" data-rel="blue" class="styleswitch"></a></li>
+        <li class="green"><a href="#" data-rel="green" class="styleswitch"></a></li>
+      </ul>
     </section>
     <!-- ***** TRANSLATION ****** -->
     <section id="drop-lng" class="btn-group btn-group-toggle toplang" data-toggle="buttons">
-      <label data-lng="en-US" class="btn btn-secondary mb-2">
-        <input type="radio" name="options" id="option1" checked> EN
-      </label>
-      <label data-lng="pt-PT" class="btn btn-secondary">
-        <input type="radio" name="options" id="option2"> PT
-      </label>
+      <label data-lng="en-US" class="btn btn-secondary mb-2"> <input type="radio" name="options" id="option1" checked /> EN </label>
+      <label data-lng="pt-PT" class="btn btn-secondary"> <input type="radio" name="options" id="option2" /> PT </label>
     </section>
   </div>
 </template>
 
 <script>
-export default {
-    
-}
+export default {}
 </script>
