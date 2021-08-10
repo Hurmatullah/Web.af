@@ -134,18 +134,6 @@
           <div class="smallline"></div>
         </div>
         <div class="sec-main sec-bg1">
-          <div class="row">
-            <div class="col-md-12 col-lg-6 wow animated fadeInUp fast">
-              <img class="svg first" src="patterns/dns.svg" alt="dns redundant" />
-            </div>
-            <div class="col-md-12 col-lg-5 offset-lg-1">
-              <div class="info-content">
-                <h4>Redundant DNS</h4>
-                <p>But I must explain to you how all this mistaken idea of <a href="#" class="golink">denouncing pleasure</a> and praising pain was born and I will.</p>
-              </div>
-              <a href="" class="btn btn-default-yellow-fill mt-3">Learn more</a>
-            </div>
-          </div>
           <hr />
           <div class="row">
             <div class="col-md-12 col-lg-5">
@@ -175,43 +163,117 @@
         </div>
       </div>
     </section>
-    <!-- ***** WHY CHOOSE ANTLER ***** -->
-    <section class="services sec-normal sec-grad-yellow-to-grey-left">
-      <img class="path-left" src="patterns/exapath.svg" alt="" />
+
+    <!-- ***** Shared Hosting Features ***** -->
+    <section class="services sec-normal sec-grad-yellow-to-grey-left help pt-4 pb-80">
       <div class="container">
         <div class="service-wrap">
+          <div class="col-sm-12 text-left">
+            <h2 class="section-heading mt-3">Features of Linux Shared Hosting</h2>
+          </div>
           <div class="row">
-            <div class="col-sm-12">
-              <h2 class="section-heading">Why choose Antler for your hosting?</h2>
-              <p class="section-subheading">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-            </div>
-            <div class="col-sm-12 col-md-4">
-              <div class="service-section">
-                <div class="plans badge feat bg-pink">Softaculous</div>
-                <img class="svg" src="fonts/svg/select.svg" height="60" alt="" />
-                <div class="title">Easy 1-click-installer</div>
-                <p class="subtitle">
-                  Excepteur sint occaecat cupidatat non proident voluptate. Lorem ipsum dolor sit amet, consectetur.
-                </p>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="javascript:void(Tawk_API.toggle())" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/livechat.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform w">
+                    <div class="title">cPanel control panel</div>
+                    <div class="description">We provide you with the control panel cPanel, the world leader that enables you to control your account easily.</div>
+                  </div>
+                </a>
               </div>
             </div>
-            <div class="col-sm-12 col-md-4">
-              <div class="service-section">
-                <img class="svg" src="fonts/svg/speed.svg" height="60" alt="" />
-                <div class="title">Superfast Websites</div>
-                <p class="subtitle">
-                  Excepteur sint occaecat cupidatat non proident dolor. Lorem ipsum dolor sit amet, consectetur.
-                </p>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="contact.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/emailopen.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">Security Measures</div>
+                    <div class="description">Sensitive server’s firewall rules, CageFS, CXS, IDS, IPS, In/Out email security, 24/7/356 monitoring system for all of our infrastructure components.</div>
+                  </div>
+                </a>
               </div>
             </div>
-            <div class="col-sm-12 col-md-4">
-              <div class="service-section">
-                <div class="plans badge feat bg-pink">Free</div>
-                <img class="svg" src="fonts/svg/inverse.svg" height="60" alt="" />
-                <div class="title">Website Migrations</div>
-                <p class="subtitle">
-                  Excepteur sint occaecat cupidatat non proident voluptate. Lorem ipsum dolor sit amet, consectetur.
-                </p>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">99% uptime SLA</div>
+                    <div class="description">Redundancy for Server’s Power, Network Hardware and 1GE Connection, Plus daily, weekly and monthly local backup for Disaster Recovery.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">High Performance Servers</div>
+                    <div class="description">Dell PowerEdge Servers, Dual Intel Xeon E7 CPU, DDR4 ECC RAM, SSD MLC disks, SAS 15k disks, local RAID-10 storage arrays.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">SSD Drive</div>
+                    <div class="description">Maximize speed through rapid queries and less latency with SSD Storage.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">Free Website Migration</div>
+                    <div class="description">We’ll work with you to safely and accurately migrate your website for free.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">Technical Support</div>
+                    <div class="description">Web.af provide professional engineers for resolve your problems and help you 24/7/365.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">One-Click Script Installs</div>
+                    <div class="description">Hundreds of the best scripts to build, manage, and enhance your website. From WordPress, Joomla, Drupal, and more!</div>
+                  </div>
+                </a>
               </div>
             </div>
           </div>
