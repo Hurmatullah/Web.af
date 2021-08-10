@@ -58,20 +58,20 @@
               </div>
               <ul class="list-info">
                 <li>
-                  <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
-                  <span>250GB SSD</span>
+                  <i class="icon-drives"></i> <span class="c-purple mb-2">DISK</span><br />
+                  <span>5GB</span>
                 </li>
                 <li>
                   <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
-                  <span>1TB Bandwidth</span>
+                  <span>10GB Bandwidth</span>
                 </li>
                 <li>
                   <i class="icon-emailopen"></i> <span class="c-purple">EMAIL</span><br />
-                  <span>120 Emails</span>
+                  <span>10 Emails</span>
                 </li>
                 <li>
                   <i class="icon-domains"></i> <span class="c-purple">TLD</span><br />
-                  <span>30 Domains</span>
+                  <span>2 Website</span>
                 </li>
               </ul>
             </div>
@@ -88,19 +88,19 @@
               <ul class="list-info">
                 <li>
                   <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
-                  <span>250GB SSD</span>
+                  <span>10GB</span>
                 </li>
                 <li>
                   <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
-                  <span>1TB Bandwidth</span>
+                  <span>20GB Bandwidth</span>
                 </li>
                 <li>
                   <i class="icon-emailopen"></i> <span class="c-purple">EMAIL</span><br />
-                  <span>120 Emails</span>
+                  <span>150 Emails</span>
                 </li>
                 <li>
                   <i class="icon-domains"></i> <span class="c-purple">TLD</span><br />
-                  <span>30 Domains</span>
+                  <span>10 Website</span>
                 </li>
               </ul>
             </div>
@@ -117,19 +117,19 @@
               <ul class="list-info">
                 <li>
                   <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
-                  <span>250GB SSD</span>
+                  <span>20GB</span>
                 </li>
                 <li>
                   <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
-                  <span>1TB Bandwidth</span>
+                  <span>30GB Bandwidth</span>
                 </li>
                 <li>
                   <i class="icon-emailopen"></i> <span class="c-purple">EMAIL</span><br />
-                  <span>120 Emails</span>
+                  <span>250 Emails</span>
                 </li>
                 <li>
                   <i class="icon-domains"></i> <span class="c-purple">TLD</span><br />
-                  <span>30 Domains</span>
+                  <span>30 Website</span>
                 </li>
               </ul>
             </div>
@@ -146,19 +146,19 @@
               <ul class="list-info">
                 <li>
                   <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
-                  <span>250GB SSD</span>
+                  <span>100GB</span>
                 </li>
                 <li>
                   <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
-                  <span>1TB Bandwidth</span>
+                  <span>Unlimited Bandwidth</span>
                 </li>
                 <li>
                   <i class="icon-emailopen"></i> <span class="c-purple">EMAIL</span><br />
-                  <span>120 Emails</span>
+                  <span>Unlimited Emails</span>
                 </li>
                 <li>
                   <i class="icon-domains"></i> <span class="c-purple">TLD</span><br />
-                  <span>30 Domains</span>
+                  <span>Unlimited Website</span>
                 </li>
               </ul>
             </div>
