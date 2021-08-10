@@ -140,20 +140,6 @@
           </div>
           <hr />
           <div class="row">
-            <div class="col-md-12 col-lg-6 wow animated fadeInUp fast first">
-              <img class="svg" src="patterns/dns.svg" alt="dns redundant" />
-            </div>
-            <div class="col-md-12 col-lg-5 offset-lg-1">
-              <div class="info-content">
-                <h4>Redundant DNS</h4>
-                <p>But I must explain to you how all this mistaken idea of <a href="#" class="golink">denouncing pleasure</a> and praising pain was born and I will.</p>
-              </div>
-              <a href="" class="btn btn-default-yellow-fill mt-3">Learn more</a>
-            </div>
-          </div>
-
-          <hr />
-          <div class="row">
             <div class="col-md-12 col-lg-5">
               <div class="info-content">
                 <h4>24/7/365 Monitoring</h4>
@@ -211,25 +197,24 @@
         <div class="service-wrap">
           <div class="row">
             <div class="col-sm-12">
-              <h2 class="section-heading text-white">Why choose Antler Plans for your WordPress Hosting?</h2>
-              <p class="section-subheading">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+              <h2 class="section-heading text-white">Features of Wordpress Hosting</h2>
+              <!-- <p class="section-subheading">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p> -->
             </div>
             <div class="col-sm-12 col-md-4">
               <div class="service-section">
-                <div class="plans badge feat bg-pink">Softaculous</div>
                 <img class="svg" src="fonts/svg/select.svg" alt="" />
-                <div class="title">Easy 1-click-installer</div>
+                <div class="title">Pre-installed & Automatic updates</div>
                 <p class="subtitle">
-                  Excepteur sint occaecat cupidatat non proident voluptate. Lorem ipsum dolor sit amet, consectetur.
+                  Quickly setup your WordPress sites with automatic WordPress updates to keep your websites secure.
                 </p>
               </div>
             </div>
             <div class="col-sm-12 col-md-4">
               <div class="service-section">
                 <img class="svg" src="fonts/svg/speed.svg" alt="" />
-                <div class="title">Superfast Websites</div>
+                <div class="title">WordPress Managed Services</div>
                 <p class="subtitle">
-                  Excepteur sint occaecat cupidatat non proident dolor. Lorem ipsum dolor sit amet, consectetur.
+                  Save your time and effort to focus on your core business while we are dealing with the technical details.
                 </p>
               </div>
             </div>
@@ -237,9 +222,9 @@
               <div class="service-section">
                 <div class="plans badge feat bg-pink">Free</div>
                 <img class="svg" src="fonts/svg/inverse.svg" alt="" />
-                <div class="title">Website Migrations</div>
+                <div class="title">Daily Security Check-up</div>
                 <p class="subtitle">
-                  Excepteur sint occaecat cupidatat non proident voluptate. Lorem ipsum dolor sit amet, consectetur.
+                  Enjoy peace of mind from security threats to your website.
                 </p>
               </div>
             </div>
