@@ -109,6 +109,7 @@
             <div class="wrapper first text-center">
               <div class="top-content">
                 <img class="svg mb-3 mx-auto" src="fonts/svg/cloudfiber.svg" alt="" />
+                <div class="plans badge feat bg-pink">Recommended</div>
                 <div class="title mb-2">Premium</div>
                 <!-- <div class="fromer">Starting at:</div> -->
                 <div class="price"><sup>$</sup>8.95 <span class="period">/month</span></div>
@@ -205,13 +206,13 @@
       </div>
     </section>
     <!-- ***** FEATURES ***** -->
-    <section class="services sec-normal motpath sec-bg4">
+    <!-- <section class="services sec-normal motpath sec-bg4">
       <div class="container">
         <div class="service-wrap">
           <div class="row">
             <div class="col-sm-12 text-left">
-              <h2 class="section-heading">Why Choose Antler?</h2>
-              <p class="section-subheading">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+              <h2 class="section-heading">Hosting Features</h2>
+              <p class="section-subheading">Your data protection is our number one priority. Let us host your business website and email accounts.</p>
             </div>
             <div class="col-sm-12 col-md-4 wow animated fadeInUp fast">
               <div class="service-section">
@@ -248,8 +249,99 @@
           </div>
         </div>
       </div>
+    </section> -->
+    <section class="services sec-normal motpath sec-bg4 help pt-4 pb-80">
+      <div class="container">
+        <div class="service-wrap">
+          <div class="row">
+            <div class="col-sm-12 text-left">
+              <h2 class="section-heading">Hosting Features</h2>
+              <p class="section-subheading">Your data protection is our number one priority. Let us host your business website and email accounts.</p>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-4">
+              <div class="help-container">
+                <a href="javascript:void(Tawk_API.toggle())" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/livechat.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">Data Migration</div>
+                    <!-- <div class="description">Lorem Ipsum is simply dummy text printing.</div> -->
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-4">
+              <div class="help-container">
+                <a href="contact.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/emailopen.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">Managed Firewall</div>
+                    <!-- <div class="description">Lorem Ipsum is simply dummy text printing.</div> -->
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-4">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">Cloud Backup</div>
+                    <!-- <div class="description">Lorem Ipsum is simply dummy text printing.</div> -->
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-4">
+              <div class="help-container">
+                <a href="javascript:void(Tawk_API.toggle())" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/livechat.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">Server Cluster</div>
+                    <!-- <div class="description">Lorem Ipsum is simply dummy text printing.</div> -->
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-4">
+              <div class="help-container">
+                <a href="contact.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/emailopen.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">DDoS Protection</div>
+                    <!-- <div class="description">Lorem Ipsum is simply dummy text printing.</div> -->
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-4">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">Data Security</div>
+                    <!-- <div class="description">Lorem Ipsum is simply dummy text printing.</div> -->
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
     <!-- ***** MAP ***** -->
+
     <section class="services maping sec-normal sec-grad-grey-to-grey">
       <div class="container">
         <div class="service-wrap">
