@@ -77,13 +77,13 @@
             </div>
           </div>
           <div class="col-sm-12 col-md-3 col-lg-3">
-            <div class="wrapper first text-left">
+            <div class="wrapper first text-center">
               <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
-                <div class="title">Shared Hosting</div>
-                <div class="fromer">Starting at:</div>
-                <div class="price"><sup>$</sup>8.19 <span class="period">/month</span></div>
-                <a href="hosting" class="btn btn-default-yellow-fill">All plans</a>
+                <img class="svg mb-3 mx-auto" src="fonts/svg/cloudfiber.svg" alt="" />
+                <div class="title mb-2">Standard</div>
+                <!-- <div class="fromer">Starting at:</div> -->
+                <div class="price"><sup>$</sup>6.95 <span class="period">/month</span></div>
+                <a href="hosting" class="btn btn-default-yellow-fill">Order Now</a>
               </div>
               <ul class="list-info">
                 <li>
@@ -106,13 +106,13 @@
             </div>
           </div>
           <div class="col-sm-12 col-md-3 col-lg-3">
-            <div class="wrapper first text-left">
+            <div class="wrapper first text-center">
               <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
-                <div class="title">Shared Hosting</div>
-                <div class="fromer">Starting at:</div>
-                <div class="price"><sup>$</sup>8.19 <span class="period">/month</span></div>
-                <a href="hosting" class="btn btn-default-yellow-fill">All plans</a>
+                <img class="svg mb-3 mx-auto" src="fonts/svg/cloudfiber.svg" alt="" />
+                <div class="title mb-2">Premium</div>
+                <!-- <div class="fromer">Starting at:</div> -->
+                <div class="price"><sup>$</sup>8.95 <span class="period">/month</span></div>
+                <a href="hosting" class="btn btn-default-yellow-fill">Order Now</a>
               </div>
               <ul class="list-info">
                 <li>
@@ -135,13 +135,13 @@
             </div>
           </div>
           <div class="col-sm-12 col-md-3 col-lg-3">
-            <div class="wrapper first text-left">
+            <div class="wrapper first text-center">
               <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
-                <div class="title">Shared Hosting</div>
-                <div class="fromer">Starting at:</div>
-                <div class="price"><sup>$</sup>8.19 <span class="period">/month</span></div>
-                <a href="hosting" class="btn btn-default-yellow-fill">All plans</a>
+                <img class="svg mb-3 mx-auto" src="fonts/svg/cloudfiber.svg" alt="" />
+                <div class="title mb-2">Business</div>
+                <!-- <div class="fromer">Starting at:</div> -->
+                <div class="price"><sup>$</sup>11.95 <span class="period">/month</span></div>
+                <a href="hosting" class="btn btn-default-yellow-fill">Order Now</a>
               </div>
               <ul class="list-info">
                 <li>
