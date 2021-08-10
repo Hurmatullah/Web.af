@@ -16,10 +16,10 @@
           <div class="col-sm-6 col-md-3">
             <div class="heading">Services</div>
             <ul class="footer-menu">
-              <li class="menu-item"><a href="login">myAntler</a></li>
-              <li class="menu-item"><a href="knowledgebase-list">Knowledge Base</a></li>
-              <li class="menu-item"><a href="contact">Contact Us</a></li>
-              <li class="menu-item"><a href="faq">FAQ</a></li>
+              <li class="menu-item"><inertia-link :href="route('domains-registration')">Domain Registration</inertia-link></li>
+              <li class="menu-item"><inertia-link :href="route('ssl-certificate')">SSL Certificate</inertia-link></li>
+              <li class="menu-item">Disk For Backup</li>
+              <li class="menu-item"><inertia-link :href="route('gsuite')">G-Suite</inertia-link></li>
             </ul>
           </div>
           <div class="col-sm-6 col-md-3">
