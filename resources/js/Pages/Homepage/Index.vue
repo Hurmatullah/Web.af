@@ -47,119 +47,90 @@
     <section class="pricing special sec-up-slider">
       <div class="container">
         <div class="row">
-          <div class="col-sm-12 col-md-3 col-lg-3">
-            <div class="wrapper first text-center">
+          <div class="col-sm-12 col-md-4 col-lg-4">
+            <div class="wrapper first text-left">
               <div class="top-content">
-                <img class="svg mb-3 mx-auto" src="fonts/svg/cloudfiber.svg" alt="" />
-                <div class="title mb-2">Starter</div>
-                <!-- <div class="fromer">Starting at:</div> -->
-                <div class="price"><sup>$</sup>3.75 <span class="period">/month</span></div>
-                <a href="hosting" class="btn btn-default-yellow-fill">Order Now</a>
-              </div>
-              <ul class="list-info">
-                <li>
-                  <i class="icon-drives"></i> <span class="c-purple mb-2">DISK</span><br />
-                  <span>5GB</span>
-                </li>
-                <li>
-                  <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
-                  <span>10GB Bandwidth</span>
-                </li>
-                <li>
-                  <i class="icon-emailopen"></i> <span class="c-purple">EMAIL</span><br />
-                  <span>10 Emails</span>
-                </li>
-                <li>
-                  <i class="icon-domains"></i> <span class="c-purple">TLD</span><br />
-                  <span>2 Website</span>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-12 col-md-3 col-lg-3">
-            <div class="wrapper first text-center">
-              <div class="top-content">
-                <img class="svg mb-3 mx-auto" src="fonts/svg/cloudfiber.svg" alt="" />
-                <div class="title mb-2">Standard</div>
-                <!-- <div class="fromer">Starting at:</div> -->
-                <div class="price"><sup>$</sup>6.95 <span class="period">/month</span></div>
-                <a href="hosting" class="btn btn-default-yellow-fill">Order Now</a>
+                <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
+                <div class="title">Shared Hosting</div>
+                <div class="fromer">Starting at:</div>
+                <div class="price"><sup>$</sup>8.19 <span class="period">/month</span></div>
+                <a href="hosting" class="btn btn-default-yellow-fill">All plans</a>
               </div>
               <ul class="list-info">
                 <li>
                   <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
-                  <span>10GB</span>
+                  <span>250GB SSD</span>
                 </li>
                 <li>
                   <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
-                  <span>20GB Bandwidth</span>
+                  <span>1TB Bandwidth</span>
                 </li>
                 <li>
                   <i class="icon-emailopen"></i> <span class="c-purple">EMAIL</span><br />
-                  <span>150 Emails</span>
+                  <span>120 Emails</span>
                 </li>
                 <li>
                   <i class="icon-domains"></i> <span class="c-purple">TLD</span><br />
-                  <span>10 Website</span>
+                  <span>30 Domains</span>
                 </li>
               </ul>
             </div>
           </div>
-          <div class="col-sm-12 col-md-3 col-lg-3">
-            <div class="wrapper first text-center">
+          <div class="col-sm-12 col-md-4 col-lg-4">
+            <div class="wrapper text-left">
+              <div class="plans badge feat bg-pink">recommended</div>
               <div class="top-content">
-                <img class="svg mb-3 mx-auto" src="fonts/svg/cloudfiber.svg" alt="" />
-                <div class="plans badge feat bg-pink">Recommended</div>
-                <div class="title mb-2">Premium</div>
-                <!-- <div class="fromer">Starting at:</div> -->
-                <div class="price"><sup>$</sup>8.95 <span class="period">/month</span></div>
-                <a href="hosting" class="btn btn-default-yellow-fill">Order Now</a>
+                <img class="svg mb-3" src="fonts/svg/dedicated.svg" alt="" />
+                <div class="title">Dedicated Server</div>
+                <div class="fromer">annually get (20% discount)</div>
+                <div class="price"><sup>$</sup>82.00 <span class="period">/month</span></div>
+                <a href="configurator" class="btn btn-default-yellow-fill">Configure</a>
               </div>
-              <ul class="list-info">
+              <ul class="list-info bg-purple">
                 <li>
-                  <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
-                  <span>20GB</span>
+                  <i class="icon-cpu"></i> <span class="c-pink">CPU</span><br />
+                  <span>4x 3.20Ghz 2 Cores</span>
                 </li>
                 <li>
-                  <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
-                  <span>30GB Bandwidth</span>
+                  <i class="icon-ram"></i> <span class="c-pink">RAM</span><br />
+                  <span>16GB (up to 32GB)</span>
                 </li>
                 <li>
-                  <i class="icon-emailopen"></i> <span class="c-purple">EMAIL</span><br />
-                  <span>250 Emails</span>
+                  <i class="icon-drivessd"></i> <span class="c-pink">DRIVES</span><br />
+                  <span>2 x 1TB SATA 3.5</span>
                 </li>
                 <li>
-                  <i class="icon-domains"></i> <span class="c-purple">TLD</span><br />
-                  <span>30 Website</span>
+                  <i class="icon-git"></i> <span class="c-pink">UPLINK</span><br />
+                  <span>1Gbps - 20TB</span>
                 </li>
               </ul>
             </div>
           </div>
-          <div class="col-sm-12 col-md-3 col-lg-3">
-            <div class="wrapper first text-center">
+          <div class="col-sm-12 col-md-4 col-lg-4">
+            <div class="wrapper third text-left">
               <div class="top-content">
-                <img class="svg mb-3 mx-auto" src="fonts/svg/cloudfiber.svg" alt="" />
-                <div class="title mb-2">Business</div>
-                <!-- <div class="fromer">Starting at:</div> -->
-                <div class="price"><sup>$</sup>11.95 <span class="period">/month</span></div>
-                <a href="hosting" class="btn btn-default-yellow-fill">Order Now</a>
+                <img class="svg mb-3" src="fonts/svg/vps.svg" alt="" />
+                <div class="title">Cloud VPS</div>
+                <div class="fromer">Starting at:</div>
+                <div class="price"><sup>$</sup>9.99 <span class="period">/month</span></div>
+                <a href="vps" class="btn btn-default-yellow-fill">All plans</a>
               </div>
               <ul class="list-info">
                 <li>
+                  <i class="icon-cpu"></i> <span class="c-purple">CPU</span><br />
+                  <span>2 Cores</span>
+                </li>
+                <li>
+                  <i class="icon-ram"></i> <span class="c-purple">RAM</span><br />
+                  <span>2GB Memory</span>
+                </li>
+                <li>
                   <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
-                  <span>100GB</span>
+                  <span>20GB SSD Space</span>
                 </li>
                 <li>
                   <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
-                  <span>Unlimited Bandwidth</span>
-                </li>
-                <li>
-                  <i class="icon-emailopen"></i> <span class="c-purple">EMAIL</span><br />
-                  <span>Unlimited Emails</span>
-                </li>
-                <li>
-                  <i class="icon-domains"></i> <span class="c-purple">TLD</span><br />
-                  <span>Unlimited Website</span>
+                  <span>1TB Bandwidth</span>
                 </li>
               </ul>
             </div>

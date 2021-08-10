@@ -1,6 +1,5 @@
 <template>
   <footer class="footer">
-    <img class="logo-bg logo-footer" src="img/symbol.svg" alt="logo" />
     <div class="container">
       <div class="footer-top">
         <div class="row">
@@ -25,9 +24,9 @@
           <div class="col-sm-6 col-md-3">
             <div class="heading">Company</div>
             <ul class="footer-menu">
-              <li class="menu-item"><a href="about">About Us</a></li>
-              <li class="menu-item"><a href="elements">Features</a></li>
-              <li class="menu-item"><a href="blog">Blog</a></li>
+              <li class="menu-item"><inertia-link :href="url">About Us</inertia-link></li>
+              <li class="menu-item"><a href="elements">Contact Us</a></li>
+              <li class="menu-item"><a href="blog">Term of Services</a></li>
               <li class="menu-item"><a href="legal">Legal</a></li>
             </ul>
           </div>
@@ -94,5 +93,13 @@
 </template>
 
 <script>
-export default {}
+export default {
+
+  data(){
+    return {
+      url: "https://iap.af"
+    }
+  }
+
+}
 </script>
