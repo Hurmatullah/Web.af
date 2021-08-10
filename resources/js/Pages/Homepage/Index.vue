@@ -47,7 +47,7 @@
     <section class="pricing special sec-up-slider">
       <div class="container">
         <div class="row">
-          <div class="col-sm-12 col-md-4 col-lg-4">
+          <div class="col-sm-12 col-md-3 col-lg-3">
             <div class="wrapper first text-left">
               <div class="top-content">
                 <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
@@ -76,37 +76,65 @@
               </ul>
             </div>
           </div>
-          <div class="col-sm-12 col-md-4 col-lg-4">
-            <div class="wrapper text-left">
-              <div class="plans badge feat bg-pink">recommended</div>
+          <div class="col-sm-12 col-md-3 col-lg-3">
+            <div class="wrapper first text-left">
               <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/dedicated.svg" alt="" />
-                <div class="title">Dedicated Server</div>
-                <div class="fromer">annually get (20% discount)</div>
-                <div class="price"><sup>$</sup>82.00 <span class="period">/month</span></div>
-                <a href="configurator" class="btn btn-default-yellow-fill">Configure</a>
+                <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
+                <div class="title">Shared Hosting</div>
+                <div class="fromer">Starting at:</div>
+                <div class="price"><sup>$</sup>8.19 <span class="period">/month</span></div>
+                <a href="hosting" class="btn btn-default-yellow-fill">All plans</a>
               </div>
-              <ul class="list-info bg-purple">
+              <ul class="list-info">
                 <li>
-                  <i class="icon-cpu"></i> <span class="c-pink">CPU</span><br />
-                  <span>4x 3.20Ghz 2 Cores</span>
+                  <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
+                  <span>250GB SSD</span>
                 </li>
                 <li>
-                  <i class="icon-ram"></i> <span class="c-pink">RAM</span><br />
-                  <span>16GB (up to 32GB)</span>
+                  <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
+                  <span>1TB Bandwidth</span>
                 </li>
                 <li>
-                  <i class="icon-drivessd"></i> <span class="c-pink">DRIVES</span><br />
-                  <span>2 x 1TB SATA 3.5</span>
+                  <i class="icon-emailopen"></i> <span class="c-purple">EMAIL</span><br />
+                  <span>120 Emails</span>
                 </li>
                 <li>
-                  <i class="icon-git"></i> <span class="c-pink">UPLINK</span><br />
-                  <span>1Gbps - 20TB</span>
+                  <i class="icon-domains"></i> <span class="c-purple">TLD</span><br />
+                  <span>30 Domains</span>
                 </li>
               </ul>
             </div>
           </div>
-          <div class="col-sm-12 col-md-4 col-lg-4">
+          <div class="col-sm-12 col-md-3 col-lg-3">
+            <div class="wrapper first text-left">
+              <div class="top-content">
+                <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
+                <div class="title">Shared Hosting</div>
+                <div class="fromer">Starting at:</div>
+                <div class="price"><sup>$</sup>8.19 <span class="period">/month</span></div>
+                <a href="hosting" class="btn btn-default-yellow-fill">All plans</a>
+              </div>
+              <ul class="list-info">
+                <li>
+                  <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
+                  <span>250GB SSD</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
+                  <span>1TB Bandwidth</span>
+                </li>
+                <li>
+                  <i class="icon-emailopen"></i> <span class="c-purple">EMAIL</span><br />
+                  <span>120 Emails</span>
+                </li>
+                <li>
+                  <i class="icon-domains"></i> <span class="c-purple">TLD</span><br />
+                  <span>30 Domains</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-3 col-lg-3">
             <div class="wrapper third text-left">
               <div class="top-content">
                 <img class="svg mb-3" src="fonts/svg/vps.svg" alt="" />
@@ -341,7 +369,7 @@ import footers from '../Layouts/Footers/footers'
 export default {
   components: {
     headers,
-    footers
-    },
+    footers,
+  },
 }
 </script>
