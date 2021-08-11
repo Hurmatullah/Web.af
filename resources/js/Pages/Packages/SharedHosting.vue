@@ -12,8 +12,7 @@
               <h3 class="subheading font-bold">
                 Experience superior performance and load times along with 99% guaranteed uptime.<br />
                 <span class="text-justify">
-                  We are specialized in providing web hosting solutions for individuals, small and large companies and government agencies, and because you deserve the best we strive to provide you with the highest of Linux hosting services and domain names registrations along with all requirements that you need with stability and high-speed services.
-                  Our servers are located in the best datacenters, with the use of advanced technology at the technical and most exquisite and latest hardware, which in turn increases the reliability and greatly help to keep your business stable.
+                  We are specialized in providing web hosting solutions for individuals, small and large companies and government agencies, and because you deserve the best we strive to provide you with the highest of Linux hosting services and domain names registrations along with all requirements that you need with stability and high-speed services. Our servers are located in the best datacenters, with the use of advanced technology at the technical and most exquisite and latest hardware, which in turn increases the reliability and greatly help to keep your business stable.
                 </span>
               </h3>
             </div>
@@ -26,118 +25,117 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-3 col-lg-3 wow animated fadeInUp">
-            <div class="wrapper first text-left">
+            <div class="wrapper first text-center">
               <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
-                <div class="title">Business VPS</div>
-                <div class="fromer">Best value-for-money Servers</div>
-                <div class="price"><sup>$</sup>9.99 <span class="period">/month</span></div>
+                <img class="svg mb-3 mx-auto" src="fonts/svg/cloudfiber.svg" alt="" />
+                <div class="title mb-2">Starter</div>
+                <!-- <div class="fromer">Best value-for-money Servers</div> -->
+                <div class="price"><sup>$</sup>3.75 <span class="period">/month</span></div>
                 <a href="http://inebur.com/whmcs/cart.php?a=add&pid=4" class="btn btn-default-yellow-fill">Order now</a>
               </div>
               <ul class="list-info">
                 <li>
-                  <i class="icon-cpu"></i> <span class="c-purple">CPU</span><br />
-                  <span>2 Cores</span>
+                  <i class="icon-drives"></i> <span class="c-purple">Disk Space</span><br />
+                  <span>5GB</span>
                 </li>
                 <li>
-                  <i class="icon-ram"></i> <span class="c-purple">RAM</span><br />
-                  <span>2GB Memory</span>
+                  <i class="icon-speed"></i> <span class="c-purple">Monthly Bandwidth</span><br />
+                  <span>10GB</span>
                 </li>
                 <li>
-                  <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
-                  <span>60GB Space</span>
+                  <i class="icon-emailopen"></i> <span class="c-purple">Email Accounts</span><br />
+                  <span>10</span>
                 </li>
                 <li>
-                  <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
-                  <span>1TB Bandwidth</span>
-                </li>
-              </ul>
-            </div>
-          </div>
-                    <div class="col-sm-12 col-md-3 col-lg-3 wow animated fadeInUp">
-            <div class="wrapper first text-left">
-              <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
-                <div class="title">Business VPS</div>
-                <div class="fromer">Best value-for-money Servers</div>
-                <div class="price"><sup>$</sup>9.99 <span class="period">/month</span></div>
-                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=4" class="btn btn-default-yellow-fill">Order now</a>
-              </div>
-              <ul class="list-info">
-                <li>
-                  <i class="icon-cpu"></i> <span class="c-purple">CPU</span><br />
-                  <span>2 Cores</span>
-                </li>
-                <li>
-                  <i class="icon-ram"></i> <span class="c-purple">RAM</span><br />
-                  <span>2GB Memory</span>
-                </li>
-                <li>
-                  <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
-                  <span>60GB Space</span>
-                </li>
-                <li>
-                  <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
-                  <span>1TB Bandwidth</span>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-12 col-md-3 col-lg-3 wow animated fadeInUp fast">
-            <div class="wrapper text-left">
-              <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
-                <div class="title">Professional VPS</div>
-                <div class="fromer">Intensive resources, delivered</div>
-                <div class="price"><sup>$</sup>19.00 <span class="period">/month</span></div>
-                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=5" class="btn btn-default-yellow-fill">Order now</a>
-              </div>
-              <ul class="list-info bg-purple">
-                <li>
-                  <i class="icon-cpu"></i> <span class="c-pink">CPU</span><br />
-                  <span>3 Cores</span>
-                </li>
-                <li>
-                  <i class="icon-ram"></i> <span class="c-pink">RAM</span><br />
-                  <span>4GB Memory</span>
-                </li>
-                <li>
-                  <i class="icon-drives"></i> <span class="c-pink">DISK</span><br />
-                  <span>120GB Space</span>
-                </li>
-                <li>
-                  <i class="icon-speed"></i> <span class="c-pink">DATA</span><br />
-                  <span>2TB Bandwidth</span>
+                  <i class="icon-domains"></i> <span class="c-purple">Websites</span><br />
+                  <span>2</span>
                 </li>
               </ul>
             </div>
           </div>
           <div class="col-sm-12 col-md-3 col-lg-3 wow animated fadeInUp">
-            <div class="wrapper third text-left">
-              <div class="plans badge feat bg-pink">recommended</div>
+            <div class="wrapper first text-center">
               <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
-                <div class="title">Enterprise VPS</div>
-                <div class="fromer">High performance and traffic</div>
-                <div class="price"><sup>$</sup>34.99 <span class="period">/month</span></div>
-                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=6" class="btn btn-default-yellow-fill">Order now</a>
+                <img class="svg mb-3 mx-auto" src="fonts/svg/cloudfiber.svg" alt="" />
+                <div class="title mb-2">Standard</div>
+                <!-- <div class="fromer">Best value-for-money Servers</div> -->
+                <div class="price"><sup>$</sup>6.95 <span class="period">/month</span></div>
+                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=4" class="btn btn-default-yellow-fill">Order now</a>
               </div>
               <ul class="list-info">
                 <li>
-                  <i class="icon-cpu"></i> <span class="c-purple">CPU</span><br />
-                  <span>4 Cores</span>
+                  <i class="icon-drives"></i> <span class="c-purple">Disk Space</span><br />
+                  <span>10GB</span>
                 </li>
                 <li>
-                  <i class="icon-ram"></i> <span class="c-purple">RAM</span><br />
-                  <span>8GB Memory</span>
+                  <i class="icon-speed"></i> <span class="c-purple">Monthly Bandwidth</span><br />
+                  <span>20GB</span>
                 </li>
                 <li>
-                  <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
-                  <span>240GB Space</span>
+                  <i class="icon-emailopen"></i> <span class="c-purple">Email Accounts</span><br />
+                  <span>150</span>
                 </li>
                 <li>
-                  <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
-                  <span>3TB Bandwidth</span>
+                  <i class="icon-domains"></i> <span class="c-purple">Websites</span><br />
+                  <span>10</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-3 col-lg-3 wow animated fadeInUp">
+            <div class="wrapper first text-center">
+              <div class="top-content">
+                <img class="svg mb-3 mx-auto" src="fonts/svg/cloudfiber.svg" alt="" />
+                <div class="title mb-2">Premium</div>
+                <!-- <div class="fromer">Best value-for-money Servers</div> -->
+                <div class="price"><sup>$</sup>8.95 <span class="period">/month</span></div>
+                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=4" class="btn btn-default-yellow-fill">Order now</a>
+              </div>
+              <ul class="list-info">
+                <li>
+                  <i class="icon-drives"></i> <span class="c-purple">Disk Space</span><br />
+                  <span>20GB</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Monthly Bandwidth</span><br />
+                  <span>30GB</span>
+                </li>
+                <li>
+                  <i class="icon-emailopen"></i> <span class="c-purple">Email Accounts</span><br />
+                  <span>250</span>
+                </li>
+                <li>
+                  <i class="icon-domains"></i> <span class="c-purple">Websites</span><br />
+                  <span>30</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-3 col-lg-3 wow animated fadeInUp">
+            <div class="wrapper first text-center">
+              <div class="top-content">
+                <img class="svg mb-3 mx-auto" src="fonts/svg/cloudfiber.svg" alt="" />
+                <div class="title mb-2">Business</div>
+                <!-- <div class="fromer">Best value-for-money Servers</div> -->
+                <div class="price"><sup>$</sup>11.95 <span class="period">/month</span></div>
+                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=4" class="btn btn-default-yellow-fill">Order now</a>
+              </div>
+              <ul class="list-info">
+                <li>
+                  <i class="icon-drives"></i> <span class="c-purple">Disk Space</span><br />
+                  <span>Unlimited</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Monthly Bandwidth</span><br />
+                  <span>Unlimited</span>
+                </li>
+                <li>
+                  <i class="icon-emailopen"></i> <span class="c-purple">Email Accounts</span><br />
+                  <span>Unlimited</span>
+                </li>
+                <li>
+                  <i class="icon-domains"></i> <span class="c-purple">Websites</span><br />
+                  <span>Unlimited</span>
                 </li>
               </ul>
             </div>
