@@ -25,89 +25,181 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp">
-            <div class="wrapper first text-left">
+            <div class="wrapper first text-center">
               <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/vps.svg" alt="" />
-                <div class="title">Business VPS</div>
-                <div class="fromer">Best value-for-money Servers</div>
-                <div class="price"><sup>$</sup>9.99 <span class="period">/month</span></div>
+                <img class="svg mb-3 mx-auto" src="fonts/svg/vps.svg" alt="" />
+                <div class="title mb-2">Starter</div>
+                <div class="price"><sup>$</sup>24.95 <span class="period">/month</span></div>
                 <a href="http://inebur.com/whmcs/cart.php?a=add&pid=4" class="btn btn-default-yellow-fill">Order now</a>
               </div>
               <ul class="list-info">
                 <li>
-                  <i class="icon-cpu"></i> <span class="c-purple">CPU</span><br />
-                  <span>2 Cores</span>
+                  <i class="icon-cpu"></i> <span class="c-purple">Disk Space</span><br />
+                  <span>100 GB</span>
                 </li>
                 <li>
-                  <i class="icon-ram"></i> <span class="c-purple">RAM</span><br />
-                  <span>2GB Memory</span>
+                  <i class="icon-ram"></i> <span class="c-purple">Bandwidth</span><br />
+                  <span>1000 GB</span>
                 </li>
                 <li>
-                  <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
-                  <span>60GB Space</span>
+                  <i class="icon-drives"></i> <span class="c-purple">Cpanel Accounts</span><br />
+                  <span>20</span>
                 </li>
                 <li>
-                  <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
-                  <span>1TB Bandwidth</span>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp fast">
-            <div class="wrapper text-left">
-              <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/vps.svg" alt="" />
-                <div class="title">Professional VPS</div>
-                <div class="fromer">Intensive resources, delivered</div>
-                <div class="price"><sup>$</sup>19.00 <span class="period">/month</span></div>
-                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=5" class="btn btn-default-yellow-fill">Order now</a>
-              </div>
-              <ul class="list-info bg-purple">
-                <li>
-                  <i class="icon-cpu"></i> <span class="c-pink">CPU</span><br />
-                  <span>3 Cores</span>
+                  <i class="icon-speed"></i> <span class="c-purple">Free Domain</span><br />
+                  <span>1 Year</span>
                 </li>
                 <li>
-                  <i class="icon-ram"></i> <span class="c-pink">RAM</span><br />
-                  <span>4GB Memory</span>
+                  <i class="icon-speed"></i> <span class="c-purple">Standard SSL</span><br />
+                  <span>$30 / Year</span>
                 </li>
                 <li>
-                  <i class="icon-drives"></i> <span class="c-pink">DISK</span><br />
-                  <span>120GB Space</span>
+                  <i class="icon-speed"></i> <span class="c-purple">Additional IP</span><br />
+                  <span>$25 / Year</span>
                 </li>
                 <li>
-                  <i class="icon-speed"></i> <span class="c-pink">DATA</span><br />
-                  <span>2TB Bandwidth</span>
+                  <i class="icon-speed"></i> <span class="c-purple">cPanel / WHM</span><br />
+                  <span>Free</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Hard Disk</span><br />
+                  <span>SSD</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Up time</span><br />
+                  <span>99.00%</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Backup</span><br />
+                  <span>Daily / Monthly</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">PHP Versions</span><br />
+                  <span>Multiple</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Support</span><br />
+                  <span>24/7 x 365</span>
                 </li>
               </ul>
             </div>
           </div>
           <div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp">
-            <div class="wrapper third text-left">
-              <div class="plans badge feat bg-pink">recommended</div>
+            <div class="wrapper first text-center">
               <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/vps.svg" alt="" />
-                <div class="title">Enterprise VPS</div>
-                <div class="fromer">High performance and traffic</div>
-                <div class="price"><sup>$</sup>34.99 <span class="period">/month</span></div>
-                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=6" class="btn btn-default-yellow-fill">Order now</a>
+                <img class="svg mb-3 mx-auto" src="fonts/svg/vps.svg" alt="" />
+                <div class="title mb-2">Enhance</div>
+                <div class="price"><sup>$</sup>39.95 <span class="period">/month</span></div>
+                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=4" class="btn btn-default-yellow-fill">Order now</a>
               </div>
               <ul class="list-info">
                 <li>
-                  <i class="icon-cpu"></i> <span class="c-purple">CPU</span><br />
-                  <span>4 Cores</span>
+                  <i class="icon-cpu"></i> <span class="c-purple">Disk Space</span><br />
+                  <span>50 GB</span>
                 </li>
                 <li>
-                  <i class="icon-ram"></i> <span class="c-purple">RAM</span><br />
-                  <span>8GB Memory</span>
+                  <i class="icon-ram"></i> <span class="c-purple">Bandwidth</span><br />
+                  <span>500 GB</span>
                 </li>
                 <li>
-                  <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
-                  <span>240GB Space</span>
+                  <i class="icon-drives"></i> <span class="c-purple">Cpanel Accounts</span><br />
+                  <span>10</span>
                 </li>
                 <li>
-                  <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
-                  <span>3TB Bandwidth</span>
+                  <i class="icon-speed"></i> <span class="c-purple">Free Domain</span><br />
+                  <span>1 Year</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Standard SSL</span><br />
+                  <span>$30 / Year</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Additional IP</span><br />
+                  <span>$25 / Year</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">cPanel / WHM</span><br />
+                  <span>Free</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Hard Disk</span><br />
+                  <span>SSD</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Up time</span><br />
+                  <span>99.00%</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Backup</span><br />
+                  <span>Daily / Monthly</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">PHP Versions</span><br />
+                  <span>Multiple</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Support</span><br />
+                  <span>24/7 x 365</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp">
+            <div class="wrapper first text-center">
+              <div class="top-content">
+                <img class="svg mb-3 mx-auto" src="fonts/svg/vps.svg" alt="" />
+                <div class="title mb-2">Expanded</div>
+                <div class="price"><sup>$</sup>69.95 <span class="period">/month</span></div>
+                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=4" class="btn btn-default-yellow-fill">Order now</a>
+              </div>
+              <ul class="list-info">
+                <li>
+                  <i class="icon-cpu"></i> <span class="c-purple">Disk Space</span><br />
+                  <span>300 GB</span>
+                </li>
+                <li>
+                  <i class="icon-ram"></i> <span class="c-purple">Bandwidth</span><br />
+                  <span>Unlimited</span>
+                </li>
+                <li>
+                  <i class="icon-drives"></i> <span class="c-purple">Cpanel Accounts</span><br />
+                  <span>50</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Free Domain</span><br />
+                  <span>1 Year</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Standard SSL</span><br />
+                  <span>Included</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Additional IP</span><br />
+                  <span>$25 / Year</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">cPanel / WHM</span><br />
+                  <span>Free</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Hard Disk</span><br />
+                  <span>SSD</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Up time</span><br />
+                  <span>99.00%</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Backup</span><br />
+                  <span>Daily / Monthly</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">PHP Versions</span><br />
+                  <span>Multiple</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">Support</span><br />
+                  <span>24/7 x 365</span>
                 </li>
               </ul>
             </div>
