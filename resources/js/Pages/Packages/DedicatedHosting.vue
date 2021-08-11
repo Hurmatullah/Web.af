@@ -8,7 +8,7 @@
           <div class="col-sm-12 col-md-12">
             <div class="wrapper">
               <h1 class="heading">Dedicated Servers</h1>
-              <hr class="border border-white w-2/5" />
+              <hr class="border border-white w-3/5" />
               <h3 class="subheading font-bold">
                 Take advantage of a professional and innovative leading web hosting company in Afghanistan and reliable and powerful dedicated servers based on Linux or Windows<br />
                 <span class="text-justify">
@@ -35,9 +35,8 @@
                   <div class="wrapper text-left">
                     <div class="plans badge feat bg-grey">linux</div>
                     <div class="top-content">
-                      <img class="svg mb-3" src="fonts/svg/linuxserver.svg" alt="linux" />
-                      <div class="title">Intel Xeon E3-1231 v5 / 4x 3.20Ghz</div>
-                      <div class="fromer">Excepteur sint occaecat cupidatat non proident dolor</div>
+                      <img class="svg mb-3 mx-auto" src="fonts/svg/linuxserver.svg" alt="linux" />
+                      <div class="title mb-2">Economy</div>
                       <div class="price"><sup>$</sup>82.00 <span class="period">/month</span></div>
                       <a href="" class="btn btn-default-yellow-fill">Configure</a>
                     </div>
