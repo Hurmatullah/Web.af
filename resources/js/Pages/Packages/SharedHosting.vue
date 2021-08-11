@@ -25,7 +25,7 @@
     <section class="pricing special sec-up-slider">
       <div class="container">
         <div class="row">
-          <div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp">
+          <div class="col-sm-12 col-md-3 col-lg-3 wow animated fadeInUp">
             <div class="wrapper first text-left">
               <div class="top-content">
                 <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
@@ -54,7 +54,36 @@
               </ul>
             </div>
           </div>
-          <div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp fast">
+                    <div class="col-sm-12 col-md-3 col-lg-3 wow animated fadeInUp">
+            <div class="wrapper first text-left">
+              <div class="top-content">
+                <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
+                <div class="title">Business VPS</div>
+                <div class="fromer">Best value-for-money Servers</div>
+                <div class="price"><sup>$</sup>9.99 <span class="period">/month</span></div>
+                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=4" class="btn btn-default-yellow-fill">Order now</a>
+              </div>
+              <ul class="list-info">
+                <li>
+                  <i class="icon-cpu"></i> <span class="c-purple">CPU</span><br />
+                  <span>2 Cores</span>
+                </li>
+                <li>
+                  <i class="icon-ram"></i> <span class="c-purple">RAM</span><br />
+                  <span>2GB Memory</span>
+                </li>
+                <li>
+                  <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
+                  <span>60GB Space</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
+                  <span>1TB Bandwidth</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-3 col-lg-3 wow animated fadeInUp fast">
             <div class="wrapper text-left">
               <div class="top-content">
                 <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
@@ -83,7 +112,7 @@
               </ul>
             </div>
           </div>
-          <div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp">
+          <div class="col-sm-12 col-md-3 col-lg-3 wow animated fadeInUp">
             <div class="wrapper third text-left">
               <div class="plans badge feat bg-pink">recommended</div>
               <div class="top-content">
