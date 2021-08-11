@@ -7,7 +7,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-12">
             <div class="wrapper">
-              <h1 class="heading">Cloud VPS</h1>
+              <h1 class="heading">Shared Hosting</h1>
               <h3 class="subheading">
                 Enjoy increased flexibility and get the performance you need with SSD Storage.<br />
                 <a href="#features" class="golink gocheck"> <small>Features</small> </a> <small class="c-white">&#9679;</small> <a href="#custom" class="golink gocheck"> <small>Custom VPS</small> </a> <small class="c-white">&#9679;</small>
