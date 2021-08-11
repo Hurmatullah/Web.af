@@ -8,10 +8,13 @@
           <div class="col-sm-12 col-md-12">
             <div class="wrapper">
               <h1 class="heading">Shared Hosting</h1>
-              <h3 class="subheading">
-                Enjoy increased flexibility and get the performance you need with SSD Storage.<br />
-                <a href="#features" class="golink gocheck"> <small>Features</small> </a> <small class="c-white">&#9679;</small> <a href="#custom" class="golink gocheck"> <small>Custom VPS</small> </a> <small class="c-white">&#9679;</small>
-                <a href="#faq" class="golink gocheck"> <small>FAQ</small></a>
+              <hr class="border border-white w-2/5" />
+              <h3 class="subheading font-bold">
+                Experience superior performance and load times along with 99% guaranteed uptime.<br />
+                <span class="text-justify">
+                  We are specialized in providing web hosting solutions for individuals, small and large companies and government agencies, and because you deserve the best we strive to provide you with the highest of Linux hosting services and domain names registrations along with all requirements that you need with stability and high-speed services.
+                  Our servers are located in the best datacenters, with the use of advanced technology at the technical and most exquisite and latest hardware, which in turn increases the reliability and greatly help to keep your business stable.
+                </span>
               </h3>
             </div>
           </div>
@@ -25,7 +28,7 @@
           <div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp">
             <div class="wrapper first text-left">
               <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/vps.svg" alt="" />
+                <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
                 <div class="title">Business VPS</div>
                 <div class="fromer">Best value-for-money Servers</div>
                 <div class="price"><sup>$</sup>9.99 <span class="period">/month</span></div>
@@ -54,7 +57,7 @@
           <div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp fast">
             <div class="wrapper text-left">
               <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/vps.svg" alt="" />
+                <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
                 <div class="title">Professional VPS</div>
                 <div class="fromer">Intensive resources, delivered</div>
                 <div class="price"><sup>$</sup>19.00 <span class="period">/month</span></div>
@@ -84,7 +87,7 @@
             <div class="wrapper third text-left">
               <div class="plans badge feat bg-pink">recommended</div>
               <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/vps.svg" alt="" />
+                <img class="svg mb-3" src="fonts/svg/cloudfiber.svg" alt="" />
                 <div class="title">Enterprise VPS</div>
                 <div class="fromer">High performance and traffic</div>
                 <div class="price"><sup>$</sup>34.99 <span class="period">/month</span></div>
