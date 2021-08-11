@@ -7,34 +7,14 @@
         <div class="row">
           <div class="col-sm-12 col-md-12">
             <div class="wrapper">
-              <h1 class="heading">Get Started with WordPress</h1>
-              <h3 class="subheading">Reliable, powerful, and fast hosting with just one click</h3>
-              <div id="run-switch" class="run-switch">
-                <div class="mo">Monthly Price</div>
-                <div class="switch"></div>
-                <div class="an active">Anually Price</div>
-              </div>
-              <div class="included">
-                <h4>All plans include</h4>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> Control Panel</li>
-                </ul>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> Server Caching Tools</li>
-                </ul>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> SSL & Privacy Included</li>
-                </ul>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> Daily Backups</li>
-                </ul>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> Powerful SSD Storage</li>
-                </ul>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> Support 24/7/365</li>
-                </ul>
-              </div>
+              <h1 class="heading">Shared Hosting</h1>
+              <hr class="border border-white w-2/5" />
+              <h3 class="subheading font-bold">
+                Experience superior performance and load times along with 99% guaranteed uptime.<br />
+                <span class="text-justify">
+                  We are specialized in providing web hosting solutions for individuals, small and large companies and government agencies, and because you deserve the best we strive to provide you with the highest of Linux hosting services and domain names registrations along with all requirements that you need with stability and high-speed services. Our servers are located in the best datacenters, with the use of advanced technology at the technical and most exquisite and latest hardware, which in turn increases the reliability and greatly help to keep your business stable.
+                </span>
+              </h3>
             </div>
           </div>
         </div>
@@ -44,84 +24,6 @@
         <span>Features</span>
       </a>
     </div>
-    <!-- ***** PRICING TABLES ***** -->
-    <section class="pricing special sec-uping mb-80">
-      <div class="container">
-        <div class="row justify-content-end">
-          <div class="col-sm-12 col-md-6 col-lg-4">
-            <div class="wrapper price-container text-left wow animated fadeInUp fast">
-              <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/wordpress.svg" alt="" />
-                <div class="title">AntlerPress Starter</div>
-                <div class="fromer">Great for small WordPress sites, and for an affordable solution</div>
-                <div class="price-content">
-                  <div class="price">
-                    <sup class="coin">$</sup>
-                    <span class="value">74.28</span>
-                    <small>/</small><span class="period annually">year</span>
-                  </div>
-                </div>
-                <a href="" class="btn btn-default-yellow-fill">Order now</a>
-              </div>
-              <ul class="list-info">
-                <li>
-                  <i class="icon-global"></i> <span class="c-purple">WEB</span><br />
-                  <span>2 Websites</span>
-                </li>
-                <li>
-                  <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
-                  <span>100GB Space</span>
-                </li>
-                <li>
-                  <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
-                  <span>1TB Bandwidth</span>
-                </li>
-                <li>
-                  <i class="icon-helpdesk"></i> <span class="c-purple">HELP</span><br />
-                  <span>Phone, Chat & Tickes</span>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-12 col-md-6 col-lg-4">
-            <div class="wrapper price-container text-left wow animated fadeInUp">
-              <div class="plans badge feat bg-pink">best value</div>
-              <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/wordpress.svg" alt="" />
-                <div class="title">AntlerPress Pro</div>
-                <div class="fromer">Perfect for businesses that expect high performance and Grow</div>
-                <div class="price-content">
-                  <div class="price">
-                    <sup class="coin">$</sup>
-                    <span class="value">179.88</span>
-                    <small>/</small><span class="period annually">year</span>
-                  </div>
-                </div>
-                <a href="" class="btn btn-default-yellow-fill">Order now</a>
-              </div>
-              <ul class="list-info bg-purple">
-                <li>
-                  <i class="icon-global"></i> <span class="c-pink">WEB</span><br />
-                  <span>6 Websites</span>
-                </li>
-                <li>
-                  <i class="icon-drives"></i> <span class="c-pink">DISK</span><br />
-                  <span>50GB SSD Space</span>
-                </li>
-                <li>
-                  <i class="icon-speed"></i> <span class="c-pink">DATA</span><br />
-                  <span>Unlimited Bandwidth</span>
-                </li>
-                <li>
-                  <i class="icon-helpdesk"></i> <span class="c-pink">HELP</span><br />
-                  <span>Phone, Chat & Tickes</span>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
     <!-- ***** FEATURES ***** -->
     <section id="scroll" class="history-section feat01 sec-normal sec-bg2 motpath">
       <div class="container">
