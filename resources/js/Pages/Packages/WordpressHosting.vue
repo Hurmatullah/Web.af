@@ -7,22 +7,21 @@
         <div class="row">
           <div class="col-sm-12 col-md-12">
             <div class="wrapper">
-              <h1 class="heading">Shared Hosting</h1>
-              <hr class="border border-white w-2/5" />
+              <h1 class="heading">WordPress Hosting</h1>
+              <hr class="border border-white w-3/5" />
               <h3 class="subheading font-bold">
-                Experience superior performance and load times along with 99% guaranteed uptime.<br />
+                Our designed platform for WordPress is fine-tuned to deliver superior performance, security, and provide best-in-class hosting.<br />
                 <span class="text-justify">
-                  We are specialized in providing web hosting solutions for individuals, small and large companies and government agencies, and because you deserve the best we strive to provide you with the highest of Linux hosting services and domain names registrations along with all requirements that you need with stability and high-speed services. Our servers are located in the best datacenters, with the use of advanced technology at the technical and most exquisite and latest hardware, which in turn increases the reliability and greatly help to keep your business stable.
+                  WordPress is the world’s most popular website building tool, offers a powerful content management platform that you should not miss. meanwhile, It gives you access to the thousands of free themes and plugins that help simplify the design process and allow you to add powerful features with just a few clicks.
+                </span>
+                <span class="text-justify">
+                  Web.af provides one of the fastest WordPress hosting solutions out there in the marketplace
                 </span>
               </h3>
             </div>
           </div>
         </div>
       </div>
-      <a class="gocontent godown gocheck" href="#scroll">
-        <img class="svg" src="fonts/svg/arrowdown.svg" height="80" alt="features" />
-        <span>Features</span>
-      </a>
     </div>
     <!-- ***** FEATURES ***** -->
     <section id="scroll" class="history-section feat01 sec-normal sec-bg2 motpath">
@@ -51,43 +50,6 @@
             </div>
             <div class="col-md-12 col-lg-6 offset-lg-1 backups anima wow animated fadeInUp fast second">
               <img class="svg" src="patterns/monitoring.svg" alt="monitoring 24/7/365" />
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- ***** HELP ***** -->
-    <section class="help sec-normal pt-4">
-      <div class="container">
-        <div class="service-wrap">
-          <div class="row">
-            <div class="col-sm-12 col-md-6 col-lg-6">
-              <div class="help-container">
-                <div class="plans badge feat left bg-grey"><i class="fas fa-long-arrow-alt-left"></i></div>
-                <a href="hosting" class="help-item">
-                  <div class="img">
-                    <img class="svg ico" src="fonts/svg/cloudfiber.svg" alt="" />
-                  </div>
-                  <div class="inform">
-                    <div class="title">Go to Shared Hosting</div>
-                    <div class="description">Need similar power but a simpler solution?</div>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <div class="col-sm-12 col-md-6 col-lg-6">
-              <div class="help-container">
-                <div class="plans badge feat bg-grey"><i class="fas fa-long-arrow-alt-right"></i></div>
-                <a href="dedicated" class="help-item">
-                  <div class="img">
-                    <img class="svg ico" src="fonts/svg/dedicated.svg" alt="" />
-                  </div>
-                  <div class="inform">
-                    <div class="title">Go to Dedicated Server</div>
-                    <div class="description">Need more power and resources?</div>
-                  </div>
-                </a>
-              </div>
             </div>
           </div>
         </div>
