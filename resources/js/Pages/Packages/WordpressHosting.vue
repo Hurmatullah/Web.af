@@ -97,9 +97,7 @@
       </div>
     </section>
     <!-- ***** TEAM ***** -->
-    <section class="sec-normal sec-grad-yellow-to-grey-left">
-      <img class="path-left" src="patterns/motpath.svg" alt="" />
-    </section>
+    <div class="sec-grad-black-to-grey-left h-2"></div>
     <footers></footers>
   </div>
 </template>
