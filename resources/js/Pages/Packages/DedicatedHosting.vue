@@ -242,8 +242,8 @@
                     <img class="svg ico" src="fonts/svg/livechat.svg" height="65" alt="" />
                   </div>
                   <div class="inform w">
-                    <div class="title">cPanel control panel</div>
-                    <div class="description">We provide you with the control panel cPanel, the world leader that enables you to control your account easily.</div>
+                    <div class="title">Reliable new equipment</div>
+                    <div class="description">All dedicated servers are not older than two years and are located in Germany.</div>
                   </div>
                 </a>
               </div>
@@ -255,8 +255,8 @@
                     <img class="svg ico" src="fonts/svg/emailopen.svg" height="65" alt="" />
                   </div>
                   <div class="inform">
-                    <div class="title">Security Measures</div>
-                    <div class="description">Sensitive server’s firewall rules, CageFS, CXS, IDS, IPS, In/Out email security, 24/7/356 monitoring system for all of our infrastructure components.</div>
+                    <div class="title">Server Protection against DDoS attacks</div>
+                    <div class="description">At your request, we will connect to the server protection against DDoS attacks.</div>
                   </div>
                 </a>
               </div>
@@ -268,8 +268,8 @@
                     <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
                   </div>
                   <div class="inform">
-                    <div class="title">99% uptime SLA</div>
-                    <div class="description">Redundancy for Server’s Power, Network Hardware and 1GE Connection, Plus daily, weekly and monthly local backup for Disaster Recovery.</div>
+                    <div class="title">Free Administraton</div>
+                    <div class="description">Our staff will take over server maintenance. Set up the server to get started, install the necessary software, if possible.</div>
                   </div>
                 </a>
               </div>
@@ -281,8 +281,8 @@
                     <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
                   </div>
                   <div class="inform">
-                    <div class="title">High Performance Servers</div>
-                    <div class="description">Dell PowerEdge Servers, Dual Intel Xeon E7 CPU, DDR4 ECC RAM, SSD MLC disks, SAS 15k disks, local RAID-10 storage arrays.</div>
+                    <div class="title">Set up server</div>
+                    <div class="description">Prepare the server to get started, set up a web environment..</div>
                   </div>
                 </a>
               </div>
@@ -294,8 +294,8 @@
                     <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
                   </div>
                   <div class="inform">
-                    <div class="title">SSD Drive</div>
-                    <div class="description">Maximize speed through rapid queries and less latency with SSD Storage.</div>
+                    <div class="title">Transfer and restore the necessary data</div>
+                    <div class="description">We will transfer your data from another web hosting company, if necessary, deploy a backup copy of your server data.</div>
                   </div>
                 </a>
               </div>
@@ -307,8 +307,8 @@
                     <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
                   </div>
                   <div class="inform">
-                    <div class="title">Free Website Migration</div>
-                    <div class="description">We’ll work with you to safely and accurately migrate your website for free.</div>
+                    <div class="title">Perform other administrative task</div>
+                    <div class="description">Find out why your site does not work, immediately write the reason or fix it yourself. Let us tell you how to make such errors no longer occur.</div>
                   </div>
                 </a>
               </div>
@@ -320,8 +320,8 @@
                     <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
                   </div>
                   <div class="inform">
-                    <div class="title">Technical Support</div>
-                    <div class="description">Web.af provide professional engineers for resolve your problems and help you 24/7/365.</div>
+                    <div class="title">Install the software</div>
+                    <div class="description">If you have no time to follow the installation instructions, write to our support staff: we will coordinate the time of work and install the operating system.</div>
                   </div>
                 </a>
               </div>
@@ -333,8 +333,8 @@
                     <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
                   </div>
                   <div class="inform">
-                    <div class="title">One-Click Script Installs</div>
-                    <div class="description">Hundreds of the best scripts to build, manage, and enhance your website. From WordPress, Joomla, Drupal, and more!</div>
+                    <div class="title">We will follow the safety</div>
+                    <div class="description">We support the desire of customers to protect their data and protect the site from intruders, so we help with setting up DDoS protection and switching to https for data encryption.</div>
                   </div>
                 </a>
               </div>
