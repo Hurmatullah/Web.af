@@ -32,30 +32,50 @@
             <div class="row">
               <div class="col-md-12 col-md-6 col-lg-6">
                 <div class="mix linux data1 cores2" data-size="0">
-                  <div class="wrapper text-left">
+                  <div class="wrapper text-center">
                     <div class="plans badge feat bg-grey">linux</div>
                     <div class="top-content">
                       <img class="svg mb-3 mx-auto" src="fonts/svg/linuxserver.svg" alt="linux" />
                       <div class="title mb-2">Economy</div>
-                      <div class="price"><sup>$</sup>82.00 <span class="period">/month</span></div>
+                      <div class="price"><sup>$</sup>145.55 <span class="period">/month</span></div>
                       <a href="" class="btn btn-default-yellow-fill">Configure</a>
                     </div>
                     <ul class="list-info bg-pink">
                       <li>
                         <i class="icon-cpu"></i> <span class="c-purple">CPU</span><br />
-                        <span>4x 3.20Ghz 2 Cores</span>
+                        <span>Intel Xeon E5 2630v4 (10 x 2.20 GHz)</span>
                       </li>
                       <li>
                         <i class="icon-ram"></i> <span class="c-purple">RAM</span><br />
-                        <span>16GB (up to 32GB)</span>
+                        <span>256 GB REG ECC RAM</span>
                       </li>
                       <li>
-                        <i class="icon-drivessd"></i> <span class="c-purple">DRIVES</span><br />
-                        <span>2 x 1TB SATA 3.5</span>
+                        <i class="icon-drivessd"></i> <span class="c-purple">Storage</span><br />
+                        <span>3 TB HDD</span>
                       </li>
                       <li>
-                        <i class="icon-git"></i> <span class="c-purple">UPLINK</span><br />
-                        <span>1Gbps - 20TB</span>
+                        <i class="icon-git"></i> <span class="c-purple">Operating System</span><br />
+                        <span>Centos 7</span>
+                      </li>
+                      <li>
+                        <i class="icon-git"></i> <span class="c-purple">Bandwidth</span><br />
+                        <span>UNLIMITED Traffic</span>
+                      </li>
+                      <li>
+                        <i class="icon-git"></i> <span class="c-purple">cPanel/WHM</span><br />
+                        <span>Yes</span>
+                      </li>
+                      <li>
+                        <i class="icon-git"></i> <span class="c-purple">Standard SSL</span><br />
+                        <span>Yes</span>
+                      </li>
+                      <li>
+                        <i class="icon-git"></i> <span class="c-purple">DDoS protection</span><br />
+                        <span>Yes</span>
+                      </li>
+                      <li>
+                        <i class="icon-git"></i> <span class="c-purple">Support</span><br />
+                        <span>24x7/ 365</span>
                       </li>
                     </ul>
                   </div>
@@ -63,31 +83,50 @@
               </div>
               <div class="col-md-6 col-md-6 col-lg-6">
                 <div class="mix windows data2 cores4" data-size="1">
-                  <div class="wrapper text-left">
-                    <div class="plans badge feat bg-grey">windows</div>
+                  <div class="wrapper text-center">
+                    <div class="plans badge feat bg-grey">linux</div>
                     <div class="top-content">
-                      <img class="svg mb-3" src="fonts/svg/windowserver.svg" alt="windows" />
-                      <div class="title">Intel Xeon E3-1230 v6 / 6x 3.20Ghz</div>
-                      <div class="fromer">Excepteur sint occaecat cupidatat non proident dolor</div>
-                      <div class="price"><sup>$</sup>133.00 <span class="period">/month</span></div>
+                      <img class="svg mb-3 mx-auto" src="fonts/svg/linuxserver.svg" alt="linux" />
+                      <div class="title mb-2">Value</div>
+                      <div class="price"><sup>$</sup>165.55 <span class="period">/month</span></div>
                       <a href="" class="btn btn-default-yellow-fill">Configure</a>
                     </div>
-                    <ul class="list-info bg-purple">
+                    <ul class="list-info bg-pink">
                       <li>
-                        <i class="icon-cpu"></i> <span class="c-pink">CPU</span><br />
-                        <span>6x 3.20Ghz 4 Cores</span>
+                        <i class="icon-cpu"></i> <span class="c-purple">CPU</span><br />
+                        <span>Intel Xeon E5 2630v4 (10 x 2.20 GHz)</span>
                       </li>
                       <li>
-                        <i class="icon-ram"></i> <span class="c-pink">RAM</span><br />
-                        <span>32GB (up to 64GB)</span>
+                        <i class="icon-ram"></i> <span class="c-purple">RAM</span><br />
+                        <span>256 GB REG ECC RAM</span>
                       </li>
                       <li>
-                        <i class="icon-drivessd"></i> <span class="c-pink">DRIVES</span><br />
-                        <span>2 x 1TB SATA 3.0</span>
+                        <i class="icon-drivessd"></i> <span class="c-purple">Storage</span><br />
+                        <span>3 TB HDD</span>
                       </li>
                       <li>
-                        <i class="icon-git"></i> <span class="c-pink">UPLINK</span><br />
-                        <span>1Gbps - 20TB</span>
+                        <i class="icon-git"></i> <span class="c-purple">Operating System</span><br />
+                        <span>Centos 7</span>
+                      </li>
+                      <li>
+                        <i class="icon-git"></i> <span class="c-purple">Bandwidth</span><br />
+                        <span>UNLIMITED Traffic</span>
+                      </li>
+                      <li>
+                        <i class="icon-git"></i> <span class="c-purple">cPanel/WHM</span><br />
+                        <span>Yes</span>
+                      </li>
+                      <li>
+                        <i class="icon-git"></i> <span class="c-purple">Standard SSL</span><br />
+                        <span>Yes</span>
+                      </li>
+                      <li>
+                        <i class="icon-git"></i> <span class="c-purple">DDoS protection</span><br />
+                        <span>Yes</span>
+                      </li>
+                      <li>
+                        <i class="icon-git"></i> <span class="c-purple">Support</span><br />
+                        <span>24x7/ 365</span>
                       </li>
                     </ul>
                   </div>
@@ -95,127 +134,50 @@
               </div>
               <div class="col-md-12 col-md-6 col-lg-6">
                 <div class="mix managed data3 cores6" data-size="2">
-                  <div class="wrapper text-left">
-                    <div class="plans badge feat bg-pink">special</div>
-                    <div class="top-content">
-                      <img class="svg mb-3" src="fonts/svg/managedserver.svg" alt="managed" />
-                      <div class="title">Intel Xeon E3-1231 v6 / 8x 3.30Ghz</div>
-                      <div class="fromer">Excepteur sint occaecat cupidatat non proident dolor</div>
-                      <div class="price"><sup>$</sup>184.00 <span class="period">/month</span></div>
-                      <a href="" class="btn btn-default-yellow-fill">Configure</a>
-                    </div>
-                    <ul class="list-info bg-pink">
-                      <li>
-                        <i class="icon-cpu"></i> <span class="c-purple">CPU</span><br />
-                        <span>8x 3.30Ghz 6 Cores</span>
-                      </li>
-                      <li>
-                        <i class="icon-ram"></i> <span class="c-purple">RAM</span><br />
-                        <span>64GB (up to 96GB)</span>
-                      </li>
-                      <li>
-                        <i class="icon-drivessd"></i> <span class="c-purple">DRIVES</span><br />
-                        <span>2 x 1TB SATA 3.5</span>
-                      </li>
-                      <li>
-                        <i class="icon-git"></i> <span class="c-purple">UPLINK</span><br />
-                        <span>1Gbps - 30TB</span>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-12 col-md-6 col-lg-6">
-                <div class="mix linux data4 cores8" data-size="3">
-                  <div class="wrapper text-left">
+                  <div class="wrapper text-center">
                     <div class="plans badge feat bg-grey">linux</div>
                     <div class="top-content">
-                      <img class="svg mb-3" src="fonts/svg/linuxserver.svg" alt="linux" />
-                      <div class="title">Intel Xeon E3-1231 v5 / 8x 3.40Ghz</div>
-                      <div class="fromer">Excepteur sint occaecat cupidatat non proident dolor</div>
-                      <div class="price"><sup>$</sup>159.00 <span class="period">/month</span></div>
-                      <a href="" class="btn btn-default-yellow-fill">Configure</a>
-                    </div>
-                    <ul class="list-info bg-purple">
-                      <li>
-                        <i class="icon-cpu"></i> <span class="c-pink">CPU</span><br />
-                        <span>8x 3.40Ghz 8 Cores</span>
-                      </li>
-                      <li>
-                        <i class="icon-ram"></i> <span class="c-pink">RAM</span><br />
-                        <span>96GB (up to 128GB)</span>
-                      </li>
-                      <li>
-                        <i class="icon-drivessd"></i> <span class="c-pink">DRIVES</span><br />
-                        <span>4 x 1TB SATA 3.0</span>
-                      </li>
-                      <li>
-                        <i class="icon-git"></i> <span class="c-pink">UPLINK</span><br />
-                        <span>1Gbps - 20TB</span>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-12 col-md-6 col-lg-6">
-                <div class="mix windows data5 cores12" data-size="4">
-                  <div class="wrapper text-left">
-                    <div class="plans badge feat bg-grey">windows</div>
-                    <div class="top-content">
-                      <img class="svg mb-3" src="fonts/svg/windowserver.svg" height="65" alt="windows" />
-                      <div class="title">Intel Xeon E3-1230 v6 / 8x 3.20Ghz</div>
-                      <div class="fromer">Excepteur sint occaecat cupidatat non proident dolor</div>
-                      <div class="price"><sup>$</sup>199.00 <span class="period">/month</span></div>
+                      <img class="svg mb-3 mx-auto" src="fonts/svg/linuxserver.svg" alt="linux" />
+                      <div class="title mb-2">Ultimate</div>
+                      <div class="price"><sup>$</sup>185.55 <span class="period">/month</span></div>
                       <a href="" class="btn btn-default-yellow-fill">Configure</a>
                     </div>
                     <ul class="list-info bg-pink">
                       <li>
                         <i class="icon-cpu"></i> <span class="c-purple">CPU</span><br />
-                        <span>8x 3.20Ghz 12 Cores</span>
+                        <span>AMD EPYC 7282 (16 x 2.8 GHz)</span>
                       </li>
                       <li>
                         <i class="icon-ram"></i> <span class="c-purple">RAM</span><br />
-                        <span>128GB (up to 265GB)</span>
+                        <span>256 GB REG ECC RAM</span>
                       </li>
                       <li>
-                        <i class="icon-drivessd"></i> <span class="c-purple">DRIVES</span><br />
-                        <span>4 x 2TB SATA 3.0</span>
+                        <i class="icon-drivessd"></i> <span class="c-purple">Storage</span><br />
+                        <span>3 TB HDD</span>
                       </li>
                       <li>
-                        <i class="icon-git"></i> <span class="c-purple">UPLINK</span><br />
-                        <span>1Gbps - 30TB</span>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-12 col-md-6 col-lg-6">
-                <div class="mix managed data6 cores16" data-size="4">
-                  <div class="wrapper text-left">
-                    <div class="plans badge feat bg-grey">managed</div>
-                    <div class="top-content">
-                      <img class="svg mb-3" src="fonts/svg/managedserver.svg" alt="managed" />
-                      <div class="title">Intel Xeon E3-1231 v6 / 8x 3.30Ghz</div>
-                      <div class="fromer">Excepteur sint occaecat cupidatat non proident dolor</div>
-                      <div class="price"><sup>$</sup>184.00 <span class="period">/month</span></div>
-                      <a href="" class="btn btn-default-yellow-fill">Configure</a>
-                    </div>
-                    <ul class="list-info bg-purple">
-                      <li>
-                        <i class="icon-cpu"></i> <span class="c-pink">CPU</span><br />
-                        <span>8x 3.30Ghz 16 Cores</span>
+                        <i class="icon-git"></i> <span class="c-purple">Operating System</span><br />
+                        <span>Centos 7</span>
                       </li>
                       <li>
-                        <i class="icon-ram"></i> <span class="c-pink">RAM</span><br />
-                        <span>256GB (up to 512GB)</span>
+                        <i class="icon-git"></i> <span class="c-purple">Bandwidth</span><br />
+                        <span>UNLIMITED Traffic</span>
                       </li>
                       <li>
-                        <i class="icon-drivessd"></i> <span class="c-pink">DRIVES</span><br />
-                        <span>2 x 1TB SATA 3.5</span>
+                        <i class="icon-git"></i> <span class="c-purple">cPanel/WHM</span><br />
+                        <span>Yes</span>
                       </li>
                       <li>
-                        <i class="icon-git"></i> <span class="c-pink">UPLINK</span><br />
-                        <span>1Gbps - 30TB</span>
+                        <i class="icon-git"></i> <span class="c-purple">Standard SSL</span><br />
+                        <span>Yes</span>
+                      </li>
+                      <li>
+                        <i class="icon-git"></i> <span class="c-purple">DDoS protection</span><br />
+                        <span>Yes</span>
+                      </li>
+                      <li>
+                        <i class="icon-git"></i> <span class="c-purple">Support</span><br />
+                        <span>24x7/ 365</span>
                       </li>
                     </ul>
                   </div>
