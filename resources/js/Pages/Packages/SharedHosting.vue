@@ -2,123 +2,110 @@
   <div>
     <headers></headers>
     <!-- ***** SLIDER ***** -->
-    <div class="top-header item5 overlay">
+    <div class="top-header overlay-video">
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-12">
             <div class="wrapper">
-              <h1 class="heading">Shared Hosting</h1>
-              <h3 class="subheading">Blazing fast & stable hosting infrastructure</h3>
-              <div id="run-switch" class="run-switch">
-                <div class="mo">Monthly Price</div>
-                <div class="switch"></div>
-                <div class="an active">Anually Price</div>
-              </div>
-              <div class="included">
-                <h4>All plans include</h4>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> c-Panel or Plesk</li>
-                </ul>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> Unlimited email</li>
-                </ul>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> Free SSL certificate</li>
-                </ul>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> Redundant DNS</li>
-                </ul>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> Powerful SSD</li>
-                </ul>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> Support 24/7/365</li>
-                </ul>
-              </div>
+              <h1 class="heading">Cloud VPS</h1>
+              <h3 class="subheading">
+                Enjoy increased flexibility and get the performance you need with SSD Storage.<br />
+                <a href="#features" class="golink gocheck"> <small>Features</small> </a> <small class="c-white">&#9679;</small> <a href="#custom" class="golink gocheck"> <small>Custom VPS</small> </a> <small class="c-white">&#9679;</small>
+                <a href="#faq" class="golink gocheck"> <small>FAQ</small></a>
+              </h3>
             </div>
           </div>
         </div>
       </div>
-      <a class="gocontent godown gocheck" href="#scroll">
-        <img class="svg" src="fonts/svg/arrowdown.svg" height="80" alt="features" />
-        <span>Features</span>
-      </a>
     </div>
     <!-- ***** PRICING TABLES ***** -->
-    <section class="pricing special sec-uping">
+    <section class="pricing special sec-up-slider">
       <div class="container">
-        <div class="randomline">
-          <div class="bigline"></div>
-          <div class="smallline"></div>
-        </div>
-        <div class="row justify-content-end">
-          <div class="col-sm-12 col-md-6 col-lg-4">
-            <div class="wrapper price-container text-left wow animated fadeInUp fast">
+        <div class="row">
+          <div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp">
+            <div class="wrapper first text-left">
               <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/cloudlinux.svg" alt="" />
-                <div class="title">Business SSD</div>
-                <div class="fromer">annually get (20% discount)</div>
-                <div class="price-content">
-                  <div class="price">
-                    <sup class="coin">$</sup>
-                    <span class="value">98.24</span>
-                    <small>/</small><span class="period annually">year</span>
-                  </div>
-                </div>
-                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=1" class="btn btn-default-yellow-fill">Order now</a>
+                <img class="svg mb-3" src="fonts/svg/vps.svg" alt="" />
+                <div class="title">Business VPS</div>
+                <div class="fromer">Best value-for-money Servers</div>
+                <div class="price"><sup>$</sup>9.99 <span class="period">/month</span></div>
+                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=4" class="btn btn-default-yellow-fill">Order now</a>
               </div>
               <ul class="list-info">
                 <li>
+                  <i class="icon-cpu"></i> <span class="c-purple">CPU</span><br />
+                  <span>2 Cores</span>
+                </li>
+                <li>
+                  <i class="icon-ram"></i> <span class="c-purple">RAM</span><br />
+                  <span>2GB Memory</span>
+                </li>
+                <li>
                   <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
-                  <span>250GB SSD</span>
+                  <span>60GB Space</span>
                 </li>
                 <li>
                   <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
                   <span>1TB Bandwidth</span>
                 </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp fast">
+            <div class="wrapper text-left">
+              <div class="top-content">
+                <img class="svg mb-3" src="fonts/svg/vps.svg" alt="" />
+                <div class="title">Professional VPS</div>
+                <div class="fromer">Intensive resources, delivered</div>
+                <div class="price"><sup>$</sup>19.00 <span class="period">/month</span></div>
+                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=5" class="btn btn-default-yellow-fill">Order now</a>
+              </div>
+              <ul class="list-info bg-purple">
                 <li>
-                  <i class="icon-emailopen"></i> <span class="c-purple">EMAIL</span><br />
-                  <span>120 Emails</span>
+                  <i class="icon-cpu"></i> <span class="c-pink">CPU</span><br />
+                  <span>3 Cores</span>
                 </li>
                 <li>
-                  <i class="icon-domains"></i> <span class="c-purple">TLD</span><br />
-                  <span>30 Domains</span>
+                  <i class="icon-ram"></i> <span class="c-pink">RAM</span><br />
+                  <span>4GB Memory</span>
+                </li>
+                <li>
+                  <i class="icon-drives"></i> <span class="c-pink">DISK</span><br />
+                  <span>120GB Space</span>
+                </li>
+                <li>
+                  <i class="icon-speed"></i> <span class="c-pink">DATA</span><br />
+                  <span>2TB Bandwidth</span>
                 </li>
               </ul>
             </div>
           </div>
-          <div class="col-sm-12 col-md-6 col-lg-4">
-            <div class="wrapper price-container text-left wow animated fadeInUp">
-              <div class="plans badge feat bg-pink">best value</div>
+          <div class="col-sm-12 col-md-4 col-lg-4 wow animated fadeInUp">
+            <div class="wrapper third text-left">
+              <div class="plans badge feat bg-pink">recommended</div>
               <div class="top-content">
-                <img class="svg mb-3" src="fonts/svg/cloudwindows.svg" alt="" />
-                <div class="title">Pro SSD</div>
-                <div class="fromer">annually get (20% discount)</div>
-                <div class="price-content">
-                  <div class="price">
-                    <sup class="coin">$</sup>
-                    <span class="value">185.99</span>
-                    <small>/</small><span class="period annually">year</span>
-                  </div>
-                </div>
-                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=2" class="btn btn-default-yellow-fill">Order now</a>
+                <img class="svg mb-3" src="fonts/svg/vps.svg" alt="" />
+                <div class="title">Enterprise VPS</div>
+                <div class="fromer">High performance and traffic</div>
+                <div class="price"><sup>$</sup>34.99 <span class="period">/month</span></div>
+                <a href="http://inebur.com/whmcs/cart.php?a=add&pid=6" class="btn btn-default-yellow-fill">Order now</a>
               </div>
-              <ul class="list-info bg-purple">
+              <ul class="list-info">
                 <li>
-                  <i class="icon-drives"></i> <span class="c-pink">DISK</span><br />
-                  <span>2TB SSD</span>
+                  <i class="icon-cpu"></i> <span class="c-purple">CPU</span><br />
+                  <span>4 Cores</span>
                 </li>
                 <li>
-                  <i class="icon-speed"></i> <span class="c-pink">DATA</span><br />
-                  <span>Unlimited Bandwidth</span>
+                  <i class="icon-ram"></i> <span class="c-purple">RAM</span><br />
+                  <span>8GB Memory</span>
                 </li>
                 <li>
-                  <i class="icon-emailopen"></i> <span class="c-pink">EMAIL</span><br />
-                  <span>Unlimited Emails</span>
+                  <i class="icon-drives"></i> <span class="c-purple">DISK</span><br />
+                  <span>240GB Space</span>
                 </li>
                 <li>
-                  <i class="icon-domains"></i> <span class="c-pink">TLD</span><br />
-                  <span>Unlimited Domains</span>
+                  <i class="icon-speed"></i> <span class="c-purple">DATA</span><br />
+                  <span>3TB Bandwidth</span>
                 </li>
               </ul>
             </div>
@@ -126,7 +113,6 @@
         </div>
       </div>
     </section>
-    <!-- ***** FEATURES ***** -->
     <section id="scroll" class="history-section feat01 sec-normal">
       <div class="container">
         <div class="randomline">

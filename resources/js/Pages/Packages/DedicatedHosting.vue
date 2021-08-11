@@ -396,6 +396,10 @@
                         <i class="icon-privacy"></i>
                         <div class="text-white">SSL Certificates</div>
                       </li>
+                                            <li class="col-lg-3 col-md-3 col-sm-12">
+                        <i class="icon-privacy"></i>
+                        <div class="text-white">Hello world</div>
+                      </li>
                     </ul>
                   </div>
                   <div class="tabs-content text-left">
