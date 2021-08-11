@@ -227,82 +227,116 @@
       </div>
     </section>
     <!-- ***** CUSTOMIZE ***** -->
-    <section id="addons" class="sec-normal history-section custom sec-bg3">
-      <div class="faq">
-        <div class="container">
+    <section class="sec-normal history-section custom sec-bg3 help pt-4 pb-80">
+      <div class="container">
+        <div class="service-wrap">
+          <div class="col-sm-12 text-left">
+            <h2 class="section-heading mt-3 text-white">Find out more about the technology we provide</h2>
+            <hr class="border border-white w-3/5" />
+          </div>
           <div class="row">
-            <div class="col-md-12 col-sm-12">
-              <h2 class="section-heading text-white">Customise with premium add-ons</h2>
-              <p class="section-subheading">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="javascript:void(Tawk_API.toggle())" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/livechat.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform w">
+                    <div class="title">cPanel control panel</div>
+                    <div class="description">We provide you with the control panel cPanel, the world leader that enables you to control your account easily.</div>
+                  </div>
+                </a>
+              </div>
             </div>
-            <div class="col-md-12 col-sm-12">
-              <div class="section-offer services w-100">
-                <div class="tabs offers-tabs">
-                  <div class="tabs-header mb-5">
-                    <ul>
-                      <li class="col-lg-3 col-md-3 col-sm-12 active">
-                        <i class="icon-preferences"></i>
-                        <div class="text-white">Control Panel</div>
-                      </li>
-                      <li class="col-lg-3 col-md-3 col-sm-12">
-                        <i class="icon-speed"></i>
-                        <div class="text-white">Bandwidth</div>
-                      </li>
-                      <li class="col-lg-3 col-md-3 col-sm-12">
-                        <i class="icon-privacy"></i>
-                        <div class="text-white">SSL Certificates</div>
-                      </li>
-                                            <li class="col-lg-3 col-md-3 col-sm-12">
-                        <i class="icon-privacy"></i>
-                        <div class="text-white">Hello world</div>
-                      </li>
-                    </ul>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="contact.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/emailopen.svg" height="65" alt="" />
                   </div>
-                  <div class="tabs-content text-left">
-                    <div class="tabs-item active">
-                      <div class="row">
-                        <div class="col-md-12 col-lg-6">
-                          <img class="svg" src="patterns/controlpanel.svg" alt="monitoring 24/7/365" />
-                        </div>
-                        <div class="col-md-12 col-lg-5 offset-lg-1">
-                          <div class="info-content text-white">
-                            <h4>Easy management with cPanel or Plesk</h4>
-                            <p>But I must explain to you how all this mistaken idea of <a href="#" class="golink">denouncing pleasure</a> and praising pain was born and I will.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="tabs-item">
-                      <div class="row">
-                        <div class="col-md-12 col-lg-6">
-                          <img class="svg" src="patterns/performance.svg" alt="performance" />
-                        </div>
-                        <div class="col-md-12 col-lg-5 offset-lg-1">
-                          <div class="info-content text-white">
-                            <h4>10x more performance with Bandwidth</h4>
-                            <p>But I must explain to you how all this mistaken idea of <a href="#" class="golink">denouncing pleasure</a> and praising pain was born and I will.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="tabs-item">
-                      <div class="row">
-                        <div class="col-md-12 col-lg-6">
-                          <img class="svg" src="patterns/ssl.svg" alt="SSL Certificates" />
-                        </div>
-                        <div class="col-md-12 col-lg-5 offset-lg-1">
-                          <div class="info-content text-white">
-                            <h4>Secure browsing experience</h4>
-                            <p>But I must explain to you how all this mistaken idea of <a href="#" class="golink">denouncing pleasure</a> and praising pain was born and I will.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                  <div class="inform">
+                    <div class="title">Security Measures</div>
+                    <div class="description">Sensitive server’s firewall rules, CageFS, CXS, IDS, IPS, In/Out email security, 24/7/356 monitoring system for all of our infrastructure components.</div>
                   </div>
-                </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">99% uptime SLA</div>
+                    <div class="description">Redundancy for Server’s Power, Network Hardware and 1GE Connection, Plus daily, weekly and monthly local backup for Disaster Recovery.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">High Performance Servers</div>
+                    <div class="description">Dell PowerEdge Servers, Dual Intel Xeon E7 CPU, DDR4 ECC RAM, SSD MLC disks, SAS 15k disks, local RAID-10 storage arrays.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">SSD Drive</div>
+                    <div class="description">Maximize speed through rapid queries and less latency with SSD Storage.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">Free Website Migration</div>
+                    <div class="description">We’ll work with you to safely and accurately migrate your website for free.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">Technical Support</div>
+                    <div class="description">Web.af provide professional engineers for resolve your problems and help you 24/7/365.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">One-Click Script Installs</div>
+                    <div class="description">Hundreds of the best scripts to build, manage, and enhance your website. From WordPress, Joomla, Drupal, and more!</div>
+                  </div>
+                </a>
               </div>
             </div>
           </div>
