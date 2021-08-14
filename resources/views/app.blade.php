@@ -37,7 +37,7 @@
     <script defer src="{{ asset('js/popper.min.js')}}"></script>
     <script defer src="{{ asset('js/bootstrap.min.js')}}"></script>
     <script defer src="{{ asset('js/idangerous.swiper.min.js')}}"></script>
-    <script defer src="{{asset('js/jquery.circliful.min.js')}}"></script>
+    <script defer src="{{ asset('js/jquery.circliful.min.js')}}"></script>
     <script defer src="{{ asset('js/jquery.countdown.js')}}"></script>
     <script defer src="{{ asset('js/jquery.magnific-popup.min.js')}}"></script>
     <script defer src="{{ asset('js/slick.min.js')}}"></script>
