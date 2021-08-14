@@ -46,7 +46,13 @@
     <script>new WOW().init();</script>
     <script defer src="{{ asset('js/scripts.js')}}"></script>
     <script>
-
+    var typed3 = new Typed('#typed3', {
+    strings: ["Premium hardware.", "Large performance.", "Fully dedicated."],
+    typeSpeed: 50,
+    backSpeed: 20,
+    smartBackspace: true,
+    loop: true
+    });
     </script>
     <script>
         $("#nav-toggle").click(function(){
