@@ -21,7 +21,7 @@
                     <a class="m-0 pr-1" href="#">Home</a>
                   </li>
                   <li class="menu-item menu-item-has-children mr-4">
-                    <a class="m-0 pr-1 v-stroke" href="#" data-i18n="[html]header.services"> </a>
+                    <a class="m-0 pr-1 v-stroke" href="#" data-i18n="[html]header.services"></a>
                     <div class="sub-menu menu-large">
                       <div class="service-list">
                         <div class="service">

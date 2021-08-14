@@ -30,10 +30,10 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=String.prototype.startsWith" defer></script>
 
     <script src="{{ mix('/js/app.js') }}" defer></script>
-    <script src="{{ asset('/js/jquery.min.js')}}"></script>
+    {{-- <script src="{{ asset('/js/jquery.min.js')}}"></script> --}}
     {{-- <script src="{{ asset('/js/typed.js')}}"></script> --}}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.0/typed.min.js" defer></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script defer src="{{ asset('js/popper.min.js')}}"></script>
     <script defer src="{{ asset('js/bootstrap.min.js')}}"></script>
     <script defer src="{{ asset('js/idangerous.swiper.min.js')}}"></script>
@@ -46,13 +46,7 @@
     <script>new WOW().init();</script>
     <script defer src="{{ asset('js/scripts.js')}}"></script>
     <script>
-    var typed3 = new Typed('#typed3', {
-    strings: ["Premium hardware.", "Large performance.", "Fully dedicated."],
-    typeSpeed: 50,
-    backSpeed: 20,
-    smartBackspace: true,
-    loop: true
-    });
+
     </script>
     <script>
         $("#nav-toggle").click(function(){
