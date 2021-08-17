@@ -70,76 +70,115 @@
       </div>
     </section>
     <!-- ***** TEAM ***** -->
-    <section class="sec-normal sec-grad-yellow-to-grey-left">
-      <img class="path-left" src="patterns/exapath.svg" alt="" />
-      <div class="team">
-        <div class="container">
+    <section class="services sec-normal sec-grad-yellow-to-grey-left help pt-4 pb-80">
+      <div class="container">
+        <div class="service-wrap">
+          <div class="col-sm-12 text-left">
+            <h2 class="section-heading mt-3">Features of Linux Shared Hosting</h2>
+          </div>
           <div class="row">
-            <div class="col-sm-12 col-md-12">
-              <h2 class="section-heading">Did not find what you looking for? Contact below</h2>
-              <p class="section-subheading">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-            </div>
-            <div class="col-sm-12 col-md-4">
-              <div class="wrapper">
-                <div class="img-section">
-                  <div class="soc-icons-wrap">
-                    <div class="icons">
-                      <a href=""><i class="fab fa-facebook-f"></i></a>
-                      <a href=""><i class="fab fa-google-plus-g"></i></a>
-                      <a href=""><i class="fab fa-twitter"></i></a>
-                      <a href=""><i class="fab fa-linkedin-in"></i></a>
-                    </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="javascript:void(Tawk_API.toggle())" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/livechat.svg" height="65" alt="" />
                   </div>
-                </div>
-                <div class="team-info">
-                  <img class="svg" src="patterns/supportman.svg" alt="team" />
-                  <h3 class="heading">John T. Erikson</h3>
-                  <div class="subheading">Support, Helpdesk</div>
-                  <div class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit</div>
-                  <a href="#" class="btn btn-default-yellow-fill mt-4">Contact</a>
-                </div>
+                  <div class="inform w">
+                    <div class="title">cPanel control panel</div>
+                    <div class="description">We provide you with the control panel cPanel, the world leader that enables you to control your account easily.</div>
+                  </div>
+                </a>
               </div>
             </div>
-            <div class="col-sm-12 col-md-4">
-              <div class="wrapper">
-                <div class="img-section">
-                  <div class="soc-icons-wrap">
-                    <div class="icons">
-                      <a href=""><i class="fab fa-facebook-f"></i></a>
-                      <a href=""><i class="fab fa-google-plus-g"></i></a>
-                      <a href=""><i class="fab fa-twitter"></i></a>
-                      <a href=""><i class="fab fa-linkedin-in"></i></a>
-                    </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="contact.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/emailopen.svg" height="65" alt="" />
                   </div>
-                </div>
-                <div class="team-info">
-                  <img class="svg" src="patterns/commercialman.svg" alt="team" />
-                  <h3 class="heading">Walter T. Adams</h3>
-                  <div class="subheading">Commercial Department</div>
-                  <div class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit</div>
-                  <a href="#" class="btn btn-default-yellow-fill mt-4">Contact</a>
-                </div>
+                  <div class="inform">
+                    <div class="title">Security Measures</div>
+                    <div class="description">Sensitive server’s firewall rules, CageFS, CXS, IDS, IPS, In/Out email security, 24/7/356 monitoring system for all of our infrastructure components.</div>
+                  </div>
+                </a>
               </div>
             </div>
-            <div class="col-sm-12 col-md-4">
-              <div class="wrapper">
-                <div class="img-section">
-                  <div class="soc-icons-wrap">
-                    <div class="icons">
-                      <a href=""><i class="fab fa-facebook-f"></i></a>
-                      <a href=""><i class="fab fa-google-plus-g"></i></a>
-                      <a href=""><i class="fab fa-twitter"></i></a>
-                      <a href=""><i class="fab fa-linkedin-in"></i></a>
-                    </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
                   </div>
-                </div>
-                <div class="team-info">
-                  <img class="svg" src="patterns/salesman.svg" alt="team" />
-                  <h3 class="heading">Verna B. Ahmed</h3>
-                  <div class="subheading">Sales Department</div>
-                  <div class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit</div>
-                  <a href="#" class="btn btn-default-yellow-fill mt-4">Contact</a>
-                </div>
+                  <div class="inform">
+                    <div class="title">99% uptime SLA</div>
+                    <div class="description">Redundancy for Server’s Power, Network Hardware and 1GE Connection, Plus daily, weekly and monthly local backup for Disaster Recovery.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">High Performance Servers</div>
+                    <div class="description">Dell PowerEdge Servers, Dual Intel Xeon E7 CPU, DDR4 ECC RAM, SSD MLC disks, SAS 15k disks, local RAID-10 storage arrays.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">SSD Drive</div>
+                    <div class="description">Maximize speed through rapid queries and less latency with SSD Storage.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">Free Website Migration</div>
+                    <div class="description">We’ll work with you to safely and accurately migrate your website for free.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">Technical Support</div>
+                    <div class="description">Web.af provide professional engineers for resolve your problems and help you 24/7/365.</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6">
+              <div class="help-container">
+                <a href="knowledgebase.html" class="help-item">
+                  <div class="img">
+                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
+                  </div>
+                  <div class="inform">
+                    <div class="title">One-Click Script Installs</div>
+                    <div class="description">Hundreds of the best scripts to build, manage, and enhance your website. From WordPress, Joomla, Drupal, and more!</div>
+                  </div>
+                </a>
               </div>
             </div>
           </div>
