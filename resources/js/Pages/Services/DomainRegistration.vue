@@ -147,19 +147,14 @@
                             <td>$12.99</td>
                           </tr>
                           <tr class="mix ext gtld others .co.uk">
-                            <td><span class="c-black">.co.uk</span></td>
-                            <td>$32.00</td>
-                            <td>$36.90</td>
-                            <td>$36.90</td>
+                            <td><span class="c-black">.in</span></td>
+                            <td>$12.99</td>
                           </tr>
                           <tr class="mix ext ngtld newest health .healthcare">
                             <td>
-                              <div class="badge bg-purple mr-1">newest</div>
-                              <span class="c-black">.healthcare</span>
+                              <span class="c-black">.co</span>
                             </td>
-                            <td>$32.00</td>
-                            <td>$36.90</td>
-                            <td>$36.90</td>
+                            <td>$12.99</td>
                           </tr>
                           <tr class="mix ext ngtld sale technology .blog">
                             <td>
