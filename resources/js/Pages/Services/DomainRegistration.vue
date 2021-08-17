@@ -158,30 +158,21 @@
                           </tr>
                           <tr class="mix ext ngtld sale technology .blog">
                             <td>
-                              <div class="badge bg-pink mr-1">sale</div>
-                              <span class="c-black">.blog</span>
+                              <span class="c-black">.news</span>
                             </td>
-                            <td><span class="ltgh">$45.10</span> <b class="c-pink">$26.00</b></td>
-                            <td>$45.10</td>
-                            <td>$45.10</td>
+                            <td>$12.99</td>
                           </tr>
                           <tr class="mix ext ngtld newest commerce .banque">
                             <td>
-                              <div class="badge bg-purple mr-1">newest</div>
-                              <span class="c-black">.banque</span>
+                              <span class="c-black">.info</span>
                             </td>
-                            <td>$32.00</td>
-                            <td>$36.90</td>
-                            <td>$36.90</td>
+                            <td>$12.99</td>
                           </tr>
                           <tr class="mix ext cctld popular .eu">
                             <td>
-                              <div class="badge bg-grey mr-1">popular</div>
-                              <span class="c-black">.eu</span>
+                              <span class="c-black">.tech</span>
                             </td>
-                            <td>$5.80</td>
-                            <td>$5.80</td>
-                            <td>$7.00</td>
+                            <td>$12.99</td>
                           </tr>
                           <tr class="mix ext cctld popular .pt">
                             <td>
