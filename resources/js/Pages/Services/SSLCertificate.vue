@@ -69,7 +69,7 @@
         </div>
       </div>
     </section>
-    <!-- ***** TEAM ***** -->
+    <!-- ***** SSL Certificate Features ***** -->
     <section class="services sec-normal sec-grad-yellow-to-grey-left help pt-4 pb-80">
       <div class="container">
         <div class="service-wrap">
@@ -85,7 +85,7 @@
                   </div>
                   <div class="inform w">
                     <div class="title">SSL Secure Connection Certificates</div>
-                    <div class="description">SSL certificates are the most widely used and most powerful security technology to create an encrypted link between your site and the Internet browser where you protect your customers’ personal data</div>
+                    <div class="description">SSL certificates are the most widely used and most powerful security technology to create an encrypted link between your site and the Internet browser where you protect your data</div>
                   </div>
                 </a>
               </div>
@@ -98,7 +98,7 @@
                   </div>
                   <div class="inform">
                     <div class="title">Increase business, sales and ranking in top search engines</div>
-                    <div class="description">All SSL certificates come with a logo stamping the Comodo Secure Seal security certificate. The certificate logo is displayed on your site and is shown to your customers.</div>
+                    <div class="description">All SSL certificates come with a logo stamping the Comodo Secure Seal security certificate. The certificate logo is displayed on your site.</div>
                   </div>
                 </a>
               </div>
