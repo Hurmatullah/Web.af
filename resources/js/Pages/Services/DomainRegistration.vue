@@ -125,18 +125,13 @@
                               <div class="badge bg-grey mr-1">popular</div>
                               <span class="c-black">.com</span>
                             </td>
-                            <td>$16.00</td>
-                            <td>$19.90</td>
-                            <td>$19.90</td>
+                            <td>$9.89</td>
                           </tr>
                           <tr class="mix ext gtld sale others  .info">
                             <td>
-                              <div class="badge bg-pink mr-1">sale</div>
-                              <span class="c-black">.info</span>
+                              <span class="c-black">.net</span>
                             </td>
-                            <td><span class="ltgh">$11.90</span> <b class="c-pink">$7.99</b></td>
-                            <td>$11.90</td>
-                            <td>$14.00</td>
+                            <td>$12.99</td>
                           </tr>
                           <tr class="mix ext ngtld newest health .hospital">
                             <td>
