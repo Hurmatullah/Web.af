@@ -193,7 +193,7 @@
                 </div>
                 <div class="panel-wrap">
                   <div class="panel-title">
-                    <span>How to choose the best web hosting plan for my website?</span>
+                    <span>Can I upgrade SSL certificates?</span>
                     <div class="float-right">
                       <i class="fa fa-plus"></i>
                       <i class="fa fa-minus c-pink"></i>
@@ -204,8 +204,7 @@
                       <div class="info">
                         <ul class="list">
                           <li>
-                            <p>According to your website size, if you planning to host a personal website, or a personal blog, the best choice is shared hosting. If you have a medium-sized website, then we recommend the VPS.</p>
-                            <p>But if you running a huge website, or a corporation online portal, then you may want to have your own dedicated server, also the code used for your website, and your visitors rate.</p>
+                            <p>At the moment you cannot upgrade your certificate, but you can purchase a newer certificate and install it on your website.</p>
                           </li>
                         </ul>
                       </div>
@@ -214,7 +213,7 @@
                 </div>
                 <div class="panel-wrap">
                   <div class="panel-title">
-                    <span>Is there a guarantee for hosting status?</span>
+                    <span>Do SSL certificates work on all browsers?</span>
                     <div class="float-right">
                       <i class="fa fa-plus"></i>
                       <i class="fa fa-minus c-pink"></i>
@@ -225,7 +224,7 @@
                       <div class="info">
                         <ul class="list">
                           <li>
-                            <p>We guarantee that your website will be live 99%</p>
+                            <p>Yes, SSL certificates work on all browsers.</p>
                           </li>
                         </ul>
                       </div>
