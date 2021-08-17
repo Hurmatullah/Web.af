@@ -115,10 +115,8 @@
                       <table class="table compare">
                         <thead>
                           <tr>
-                            <td class="bb-pink pt-0 title ">Extensions (TLD)</td>
-                            <td class="bb-pink pt-0 title">Register</td>
-                            <td class="bb-pink pt-0 title">Renew</td>
-                            <td class="bb-pink pt-0 title">Transfer</td>
+                            <td class="bb-pink pt-0 title ">Domain</td>
+                            <td class="bb-pink pt-0 title">	USD/Year</td>
                           </tr>
                         </thead>
                         <tbody>
