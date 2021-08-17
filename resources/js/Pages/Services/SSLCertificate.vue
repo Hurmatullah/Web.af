@@ -110,8 +110,8 @@
                     <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
                   </div>
                   <div class="inform">
-                    <div class="title">99% uptime SLA</div>
-                    <div class="description">Redundancy for Server’s Power, Network Hardware and 1GE Connection, Plus daily, weekly and monthly local backup for Disaster Recovery.</div>
+                    <div class="title">Why do I buy an SSL certificate?</div>
+                    <div class="description">Secure up to 256 bits Secure Sockets Layer certificates convert the data to an unbreakable code using 256-bit data encryption for the safest information of your visitors.</div>
                   </div>
                 </a>
               </div>
@@ -123,8 +123,8 @@
                     <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
                   </div>
                   <div class="inform">
-                    <div class="title">High Performance Servers</div>
-                    <div class="description">Dell PowerEdge Servers, Dual Intel Xeon E7 CPU, DDR4 ECC RAM, SSD MLC disks, SAS 15k disks, local RAID-10 storage arrays.</div>
+                    <div class="title">Raise your customer confidence</div>
+                    <div class="description">Many customers look for the SSL lock icon before trading any sensitive data. Get an SSL certificate to increase your customers’ confidence in your e-commerce.</div>
                   </div>
                 </a>
               </div>
@@ -136,8 +136,8 @@
                     <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
                   </div>
                   <div class="inform">
-                    <div class="title">SSD Drive</div>
-                    <div class="description">Maximize speed through rapid queries and less latency with SSD Storage.</div>
+                    <div class="title">Top ranking in search engines</div>
+                    <div class="description">Google gives you a higher ranking in search engines for secured sites with SSL certificates which means it’s crucial if you’re serious about your business.</div>
                   </div>
                 </a>
               </div>
@@ -149,8 +149,8 @@
                     <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
                   </div>
                   <div class="inform">
-                    <div class="title">Free Website Migration</div>
-                    <div class="description">We’ll work with you to safely and accurately migrate your website for free.</div>
+                    <div class="title">Comodo safety seal</div>
+                    <div class="description">SSL certificate comes with Comodo Secure Seal. You will display the certificate on your site that serves as a constant reminder to customers that your site is protected.</div>
                   </div>
                 </a>
               </div>
