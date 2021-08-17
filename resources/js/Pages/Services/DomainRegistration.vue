@@ -136,20 +136,15 @@
                           <tr class="mix ext ngtld newest health .hospital">
                             <td>
                               <div class="badge bg-purple mr-1">newest</div>
-                              <span class="c-black">.hospital</span>
+                              <span class="c-black">.org</span>
                             </td>
-                            <td>$52.24</td>
-                            <td>$52.24</td>
-                            <td>$59.00</td>
+                            <td>$12.99</td>
                           </tr>
                           <tr class="mix ext gtld popular others .org">
                             <td>
-                              <div class="badge bg-grey mr-1">popular</div>
-                              <span class="c-black">.org</span>
+                              <span class="c-black">.biz</span>
                             </td>
-                            <td>$9.00</td>
-                            <td>$12.90</td>
-                            <td>$12.90</td>
+                            <td>$12.99</td>
                           </tr>
                           <tr class="mix ext gtld others .co.uk">
                             <td><span class="c-black">.co.uk</span></td>
