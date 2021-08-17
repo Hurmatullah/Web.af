@@ -84,8 +84,8 @@
                     <img class="svg ico" src="fonts/svg/livechat.svg" height="65" alt="" />
                   </div>
                   <div class="inform w">
-                    <div class="title">cPanel control panel</div>
-                    <div class="description">We provide you with the control panel cPanel, the world leader that enables you to control your account easily.</div>
+                    <div class="title">SSL Secure Connection Certificates</div>
+                    <div class="description">SSL certificates are the most widely used and most powerful security technology to create an encrypted link between your site and the Internet browser where you protect your customers’ personal data</div>
                   </div>
                 </a>
               </div>
@@ -97,8 +97,8 @@
                     <img class="svg ico" src="fonts/svg/emailopen.svg" height="65" alt="" />
                   </div>
                   <div class="inform">
-                    <div class="title">Security Measures</div>
-                    <div class="description">Sensitive server’s firewall rules, CageFS, CXS, IDS, IPS, In/Out email security, 24/7/356 monitoring system for all of our infrastructure components.</div>
+                    <div class="title">Increase business, sales and ranking in top search engines</div>
+                    <div class="description">All SSL certificates come with a logo stamping the Comodo Secure Seal security certificate. The certificate logo is displayed on your site and is shown to your customers.</div>
                   </div>
                 </a>
               </div>
@@ -151,32 +151,6 @@
                   <div class="inform">
                     <div class="title">Free Website Migration</div>
                     <div class="description">We’ll work with you to safely and accurately migrate your website for free.</div>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <div class="col-sm-12 col-md-6 col-lg-6">
-              <div class="help-container">
-                <a href="knowledgebase.html" class="help-item">
-                  <div class="img">
-                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
-                  </div>
-                  <div class="inform">
-                    <div class="title">Technical Support</div>
-                    <div class="description">Web.af provide professional engineers for resolve your problems and help you 24/7/365.</div>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <div class="col-sm-12 col-md-6 col-lg-6">
-              <div class="help-container">
-                <a href="knowledgebase.html" class="help-item">
-                  <div class="img">
-                    <img class="svg ico" src="fonts/svg/book.svg" height="65" alt="" />
-                  </div>
-                  <div class="inform">
-                    <div class="title">One-Click Script Installs</div>
-                    <div class="description">Hundreds of the best scripts to build, manage, and enhance your website. From WordPress, Joomla, Drupal, and more!</div>
                   </div>
                 </a>
               </div>
