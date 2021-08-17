@@ -159,6 +159,188 @@
         </div>
       </div>
     </section>
+    <!-- ***** FAQ ***** -->
+    <section class="sec-normal sec-grad-yellow-to-grey-right">
+      <img class="path-right" src="patterns/exapath.svg" alt="" />
+      <div class="faq">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 col-sm-12">
+              <h2 class="section-heading">Frequently Asked Questions Hosting</h2>
+              <p class="section-subheading">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+            </div>
+            <div class="col-sm-12">
+              <div class="accordion faq pt-5">
+                <div class="panel-wrap">
+                  <div class="panel-title">
+                    <span>What is Web Hosting?</span>
+                    <div class="float-right">
+                      <i class="fa fa-plus"></i>
+                      <i class="fa fa-minus c-pink"></i>
+                    </div>
+                  </div>
+                  <div class="panel-collapse">
+                    <div class="wrapper-collapse">
+                      <div class="info">
+                        <ul class="list">
+                          <li>
+                            <p>A Storage space that you use to save your website file and databases, and the scripts that your site run on. It differ from your personal computer.</p>
+                            <p>it has a high specs, high speed, powerful processors, connected via high-speed internet source to make it easier for your website visitors.</p>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="panel-wrap">
+                  <div class="panel-title">
+                    <span>How to choose the best web hosting plan for my website?</span>
+                    <div class="float-right">
+                      <i class="fa fa-plus"></i>
+                      <i class="fa fa-minus c-pink"></i>
+                    </div>
+                  </div>
+                  <div class="panel-collapse">
+                    <div class="wrapper-collapse">
+                      <div class="info">
+                        <ul class="list">
+                          <li>
+                            <p>According to your website size, if you planning to host a personal website, or a personal blog, the best choice is shared hosting. If you have a medium-sized website, then we recommend the VPS.</p>
+                            <p>But if you running a huge website, or a corporation online portal, then you may want to have your own dedicated server, also the code used for your website, and your visitors rate.</p>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="panel-wrap">
+                  <div class="panel-title">
+                    <span>Is there a guarantee for hosting status?</span>
+                    <div class="float-right">
+                      <i class="fa fa-plus"></i>
+                      <i class="fa fa-minus c-pink"></i>
+                    </div>
+                  </div>
+                  <div class="panel-collapse">
+                    <div class="wrapper-collapse">
+                      <div class="info">
+                        <ul class="list">
+                          <li>
+                            <p>We guarantee that your website will be live 99%</p>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="panel-wrap">
+                  <div class="panel-title">
+                    <span>Is there a money back guarantee?</span>
+                    <div class="float-right">
+                      <i class="fa fa-plus"></i>
+                      <i class="fa fa-minus c-pink"></i>
+                    </div>
+                  </div>
+                  <div class="panel-collapse">
+                    <div class="wrapper-collapse">
+                      <div class="info">
+                        <ul class="list">
+                          <li>
+                            <p>We guarantee that you will receive your money back within 30 days from the date of subscribing to the service.</p>
+                            <p>If you are not satisfied with the service provided or you have not received what you have requested in order to provide the best services and protect our customer rights.</p>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="panel-wrap">
+                  <div class="panel-title">
+                    <span>How to make sure that my data is safe?</span>
+                    <div class="float-right">
+                      <i class="fa fa-plus"></i>
+                      <i class="fa fa-minus c-pink"></i>
+                    </div>
+                  </div>
+                  <div class="panel-collapse">
+                    <div class="wrapper-collapse">
+                      <div class="info">
+                        <ul class="list">
+                          <li>
+                            <p>Web.af uses a certain security measures to ensure that your data is safe, inside and outside the premises, securing the data and the actual infrastructure.</p>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="panel-wrap">
+                  <div class="panel-title">
+                    <span>What is the Backup service from web.af?</span>
+                    <div class="float-right">
+                      <i class="fa fa-plus"></i>
+                      <i class="fa fa-minus c-pink"></i>
+                    </div>
+                  </div>
+                  <div class="panel-collapse">
+                    <div class="wrapper-collapse">
+                      <div class="info">
+                        <ul class="list">
+                          <li>
+                            <p>Our team makes a periodic copying your data: monthly, weekly, and daily.</p>
+                            <p>In shared- hosting plans, you get service within the package, if you had VPS or Dedicated server plan, you can adjust your back-up plan as you need.</p>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="panel-wrap">
+                  <div class="panel-title">
+                    <span>Can I transfer a website to Web.af server?</span>
+                    <div class="float-right">
+                      <i class="fa fa-plus"></i>
+                      <i class="fa fa-minus c-pink"></i>
+                    </div>
+                  </div>
+                  <div class="panel-collapse">
+                    <div class="wrapper-collapse">
+                      <div class="info">
+                        <ul class="list">
+                          <li>
+                            <p>Yes, our technical support team can do that for you ASAP.</p>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="panel-wrap">
+                  <div class="panel-title">
+                    <span>How do you accept payment?</span>
+                    <div class="float-right">
+                      <i class="fa fa-plus"></i>
+                      <i class="fa fa-minus c-pink"></i>
+                    </div>
+                  </div>
+                  <div class="panel-collapse">
+                    <div class="wrapper-collapse">
+                      <div class="info">
+                        <ul class="list">
+                          <li>
+                            <p>Currently, we accept payment through Paypal.</p>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
     <!-- ***** HELP ***** -->
     <section class="help pt-4 pb-80">
       <div class="container">
