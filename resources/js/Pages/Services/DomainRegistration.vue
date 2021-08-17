@@ -176,24 +176,17 @@
                           </tr>
                           <tr class="mix ext cctld popular .pt">
                             <td>
-                              <div class="badge bg-grey mr-1">popular</div>
-                              <span class="c-black">.pt</span>
+                              <span class="c-black">.tv</span>
                             </td>
-                            <td>$13.00</td>
-                            <td>$13.00</td>
-                            <td>$19.90</td>
+                            <td>$29.99</td>
                           </tr>
                           <tr class="mix ext ngtld newest business .company">
-                            <td><span class="c-black">.company</span></td>
-                            <td>$13.00</td>
-                            <td>$13.00</td>
-                            <td>$19.90</td>
+                            <td><span class="c-black">.ws</span></td>
+                            <td>$21.99</td>
                           </tr>
                           <tr class="mix ext ngtld newest social .church">
-                            <td><span class="c-black">.church</span></td>
-                            <td>$42.00</td>
-                            <td>$42.00</td>
-                            <td>$42.00</td>
+                            <td><span class="c-black">.af</span></td>
+                            <td>$29.99</td>
                           </tr>
                           <tr class="mix ext ngtld sale social .democrat">
                             <td>
