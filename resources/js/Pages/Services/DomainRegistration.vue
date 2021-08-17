@@ -135,7 +135,6 @@
                           </tr>
                           <tr class="mix ext ngtld newest health .hospital">
                             <td>
-                              <div class="badge bg-purple mr-1">newest</div>
                               <span class="c-black">.org</span>
                             </td>
                             <td>$12.99</td>
