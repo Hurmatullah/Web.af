@@ -74,7 +74,7 @@
       <div class="container">
         <div class="service-wrap">
           <div class="col-sm-12 text-left">
-            <h2 class="section-heading mt-3">Features of Linux Shared Hosting</h2>
+            <h2 class="section-heading mt-3">Features of SSL Certificates</h2>
           </div>
           <div class="row">
             <div class="col-sm-12 col-md-6 col-lg-6">
