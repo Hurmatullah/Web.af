@@ -166,8 +166,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12">
-              <h2 class="section-heading">Frequently Asked Questions Hosting</h2>
-              <p class="section-subheading">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+              <h2 class="section-heading">Frequently Asked Questions</h2>
             </div>
             <div class="col-sm-12">
               <div class="accordion faq pt-5">
