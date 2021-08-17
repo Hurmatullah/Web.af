@@ -190,27 +190,37 @@
                           </tr>
                           <tr class="mix ext ngtld sale social .democrat">
                             <td>
-                              <div class="badge bg-pink mr-1">sale</div>
-                              <span class="c-black">.democrat</span>
+                              <span class="c-black">.com.af</span>
                             </td>
-                            <td><span class="ltgh">$35.10</span> <b class="c-pink">$19.00</b></td>
-                            <td>$35.10</td>
-                            <td>$42.90</td>
+                            <td>$24.99</td>
                           </tr>
                           <tr class="mix ext ngtld popular educations .academy">
-                            <td><span class="c-black">.academy</span></td>
-                            <td>$112.10</td>
-                            <td>$112.10</td>
-                            <td>$112.10</td>
+                            <td><span class="c-black">.net.af</span></td>
+                            <td>$24.99</td>
                           </tr>
                           <tr class="mix ext ngtld sale health .dentist">
                             <td>
-                              <div class="badge bg-pink mr-1">sale</div>
-                              <span class="c-black">.dentist</span>
+                              <span class="c-black">.org.af</span>
                             </td>
-                            <td><span class="ltgh">$50.10</span> <b class="c-pink">$25.05</b></td>
-                            <td>$50.10</td>
-                            <td>$72.90</td>
+                            <td>$24.99</td>
+                          </tr>
+                          <tr class="mix ext ngtld sale health .dentist">
+                            <td>
+                              <span class="c-black">.mil.af</span>
+                            </td>
+                            <td>$24.99</td>
+                          </tr>
+                          <tr class="mix ext ngtld sale health .dentist">
+                            <td>
+                              <span class="c-black">.gov.af</span>
+                            </td>
+                            <td>$24.99</td>
+                          </tr>
+                          <tr class="mix ext ngtld sale health .dentist">
+                            <td>
+                              <span class="c-black">.edu.af</span>
+                            </td>
+                            <td>$24.99</td>
                           </tr>
                         </tbody>
                       </table>
