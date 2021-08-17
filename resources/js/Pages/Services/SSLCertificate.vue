@@ -233,7 +233,7 @@
                 </div>
                 <div class="panel-wrap">
                   <div class="panel-title">
-                    <span>Is there a money back guarantee?</span>
+                    <span>Do I need to have an SSL certificate installed on my site?</span>
                     <div class="float-right">
                       <i class="fa fa-plus"></i>
                       <i class="fa fa-minus c-pink"></i>
@@ -244,8 +244,7 @@
                       <div class="info">
                         <ul class="list">
                           <li>
-                            <p>We guarantee that you will receive your money back within 30 days from the date of subscribing to the service.</p>
-                            <p>If you are not satisfied with the service provided or you have not received what you have requested in order to provide the best services and protect our customer rights.</p>
+                            <p>It is not difficult to install an SSL certificate on your website, you can do so by following a few steps.</p>
                           </li>
                         </ul>
                       </div>
