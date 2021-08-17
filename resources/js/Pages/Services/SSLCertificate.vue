@@ -173,7 +173,7 @@
               <div class="accordion faq pt-5">
                 <div class="panel-wrap">
                   <div class="panel-title">
-                    <span>What is Web Hosting?</span>
+                    <span>What is an SSL certificate?</span>
                     <div class="float-right">
                       <i class="fa fa-plus"></i>
                       <i class="fa fa-minus c-pink"></i>
@@ -184,8 +184,7 @@
                       <div class="info">
                         <ul class="list">
                           <li>
-                            <p>A Storage space that you use to save your website file and databases, and the scripts that your site run on. It differ from your personal computer.</p>
-                            <p>it has a high specs, high speed, powerful processors, connected via high-speed internet source to make it easier for your website visitors.</p>
+                            <p>An SSL certificate is a digital certificate issued to a domain name by a central authority called the certification authority. To issue you an SSL certificate, you must purchase an SSL certificate and then pass a certification process by the certification authority.</p>
                           </li>
                         </ul>
                       </div>
