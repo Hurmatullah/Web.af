@@ -7,8 +7,14 @@
         <div class="row">
           <div class="col-sm-12 col-md-12">
             <div class="wrapper">
-              <h1 class="heading">SSL Certificates</h1>
-              <h3 class="subheading">Security, credibility and trust for your visitors they deserve</h3>
+              <h1 class="heading">Shared Hosting</h1>
+              <hr class="border border-white w-2/5" />
+              <h3 class="subheading font-bold">
+                Experience superior performance and load times along with 99% guaranteed uptime.<br />
+                <span class="text-justify">
+                  We are specialized in providing web hosting solutions for individuals, small and large companies and government agencies, and because you deserve the best we strive to provide you with the highest of Linux hosting services and domain names registrations along with all requirements that you need with stability and high-speed services. Our servers are located in the best datacenters, with the use of advanced technology at the technical and most exquisite and latest hardware, which in turn increases the reliability and greatly help to keep your business stable.
+                </span>
+              </h3>
             </div>
           </div>
         </div>
