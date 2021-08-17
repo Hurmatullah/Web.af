@@ -7,7 +7,7 @@
           <div class="col-sm-12 col-md-12">
             <div class="wrapper">
               <h1 class="heading">Filter Perfect Domain Name</h1>
-              <h3 class="subheading mb-4">Choose from hundreds of extensions and put your website in the world.</h3>
+              <h3 class="subheading mb-4">Registering domains and searching for a domain are the first steps towards creating a website on the internet, web.af provides all types of domain and extensions as there are 100 different domain extensions that you can choose from</h3>
               <form class="mb-5" action="http://inebur.com/whmcs/domainchecker.php?systpl=antler" method="post">
                 <div class="general-input w-50">
                   <input type="text" name="domain" placeholder="Get your next domain name here" class="fill-input" />
