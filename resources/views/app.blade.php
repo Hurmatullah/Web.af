@@ -30,10 +30,8 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=String.prototype.startsWith" defer></script>
 
     <script src="{{ mix('/js/app.js') }}" defer></script>
-    {{-- <script src="{{ asset('/js/jquery.min.js')}}"></script> --}}
-    {{-- <script src="{{ asset('/js/typed.js')}}"></script> --}}
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.0/typed.min.js" defer></script>
+    <script src="{{ asset('/js/jquery.min.js')}}"></script>
+    <script src="{{ asset('/js/typed.js')}}"></script>
     <script defer src="{{ asset('js/popper.min.js')}}"></script>
     <script defer src="{{ asset('js/bootstrap.min.js')}}"></script>
     <script defer src="{{ asset('js/idangerous.swiper.min.js')}}"></script>
