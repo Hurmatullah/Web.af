@@ -134,7 +134,7 @@
                                   <img class="svg" src="fonts/svg/emailopen.svg" alt="Knowledgebase" />
                                 </div>
                                 <div class="media-body">
-                                  <a class="menu-item" href="contact" data-i18n="[html]submenu.contact"> </a>
+                                  <inertia-link class="menu-item" :href="route('contact')" data-i18n="[html]submenu.contact"></inertia-link>
                                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing</p>
                                 </div>
                               </div>
