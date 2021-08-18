@@ -162,6 +162,8 @@
         </div>
       </div>
     </section>
+    <section class="mb-4 bg-gray-400">
+    </section>
     <footers></footers>
   </div>
 </template>
