@@ -232,7 +232,6 @@
 <script>
 import headers from '../Layouts/Headers/headers'
 import footers from '../Layouts/Footers/footers'
-import Headers from '../Layouts/Headers/headers.vue'
 export default {
 
     components:{
