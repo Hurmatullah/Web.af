@@ -65,49 +65,6 @@
         </div>
       </div>
     </section>
-    <!-- ***** WHY CHOOSE ANTLER ***** -->
-    <section class="services sec-normal sec-grad-yellow-to-grey-left">
-      <img class="path-left" src="patterns/exapath.svg" alt="" />
-      <div class="container">
-        <div class="service-wrap">
-          <div class="row">
-            <div class="col-sm-12">
-              <h2 class="section-heading">Why choose G Suite by Google?</h2>
-              <p class="section-subheading">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-            </div>
-            <div class="col-sm-12 col-md-4">
-              <div class="service-section">
-                <div class="plans badge feat bg-grey">real-time</div>
-                <img class="svg" src="fonts/svg/meeting.svg" alt="" />
-                <div class="title">Collaboration with Docs</div>
-                <p class="subtitle">
-                  Excepteur sint occaecat cupidatat non proident voluptate. Lorem ipsum dolor sit amet, consectetur.
-                </p>
-              </div>
-            </div>
-            <div class="col-sm-12 col-md-4">
-              <div class="service-section">
-                <img class="svg" src="fonts/svg/freenetwork.svg" alt="" />
-                <div class="title">Work From Anywhere</div>
-                <p class="subtitle">
-                  Excepteur sint occaecat cupidatat non proident dolor. Lorem ipsum dolor sit amet, consectetur.
-                </p>
-              </div>
-            </div>
-            <div class="col-sm-12 col-md-4">
-              <div class="service-section">
-                <div class="plans badge feat bg-pink">by google</div>
-                <img class="svg" src="fonts/svg/cloudsecurity.svg" alt="" />
-                <div class="title">Secure and monitored</div>
-                <p class="subtitle">
-                  Excepteur sint occaecat cupidatat non proident voluptate. Lorem ipsum dolor sit amet, consectetur.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
     <!-- ***** FAQ ***** -->
     <section class="sec-normal sec-grad-yellow-to-grey-right">
       <img class="path-right" src="patterns/exapath.svg" alt="" />
