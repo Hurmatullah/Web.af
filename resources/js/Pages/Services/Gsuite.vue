@@ -7,34 +7,14 @@
         <div class="row">
           <div class="col-sm-12 col-md-12">
             <div class="wrapper">
-              <h1 class="heading">G Suite by Google</h1>
-              <h3 class="subheading">Email, Chat, Apps, Cloud Storage. All you need in one package</h3>
-              <div id="run-switch" class="run-switch">
-                <div class="mo">Monthly Price</div>
-                <div class="switch"></div>
-                <div class="an active">Anually Price</div>
-              </div>
-              <div class="included">
-                <h4>What you get with G Suite?</h4>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> Edit Docs & Sheets in Real-time</li>
-                </ul>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> Connect Hangouts & Calendar</li>
-                </ul>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> 30GB on Google Drive</li>
-                </ul>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> A cloud Productivity Suite</li>
-                </ul>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> Outlook Email with G Suite Sync</li>
-                </ul>
-                <ul>
-                  <li><i class="fas fa-check-circle"></i> Security provided by Google</li>
-                </ul>
-              </div>
+              <h1 class="heading">SSL-Certificates</h1>
+              <hr class="border border-white w-2/5" />
+              <h3 class="subheading font-bold">
+                Secure your site and your customer’s data from theft.<br />
+                <span class="text-justify">
+                  SSL certificates are the most widely used and most powerful security technology to create an encrypted link between your site and the Internet browser where you protect your customers’ personal data
+                </span>
+              </h3>
             </div>
           </div>
         </div>
