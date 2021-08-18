@@ -79,7 +79,7 @@
               <div class="accordion faq pt-5">
                 <div class="panel-wrap">
                   <div class="panel-title">
-                    <span>Can I transfer my current G Suite account to ResellerClub?</span>
+                    <span>Professional Email</span>
                     <div class="float-right">
                       <i class="fa fa-plus"></i>
                       <i class="fa fa-minus c-pink"></i>
@@ -90,8 +90,7 @@
                       <div class="info">
                         <ul class="list">
                           <li>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                            <p>Get the professional email (@yourdomain.com), Gmail spam protection, powerful search, and integrated calendars.</p>
                           </li>
                         </ul>
                       </div>
@@ -100,7 +99,7 @@
                 </div>
                 <div class="panel-wrap">
                   <div class="panel-title">
-                    <span>How does the pricing work for Resellers?</span>
+                    <span>Customize UI</span>
                     <div class="float-right">
                       <i class="fa fa-plus"></i>
                       <i class="fa fa-minus c-pink"></i>
@@ -111,8 +110,7 @@
                       <div class="info">
                         <ul class="list">
                           <li>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                            <p>Set your logo so it appears on the sign-in pages and in the applications themselves. Set your theme suite your organization.</p>
                           </li>
                         </ul>
                       </div>
@@ -121,7 +119,7 @@
                 </div>
                 <div class="panel-wrap">
                   <div class="panel-title">
-                    <span>Will I get help with my support requirements for G Suite?</span>
+                    <span>Store and share in the cloud</span>
                     <div class="float-right">
                       <i class="fa fa-plus"></i>
                       <i class="fa fa-minus c-pink"></i>
@@ -132,8 +130,7 @@
                       <div class="info">
                         <ul class="list">
                           <li>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                            <p>With 15 GB of storage, save work files in Google Drive, access them from any device and share them instantly</p>
                           </li>
                         </ul>
                       </div>
@@ -142,7 +139,7 @@
                 </div>
                 <div class="panel-wrap">
                   <div class="panel-title">
-                    <span>What all does G Suite productivity suite include?</span>
+                    <span>Freedom to work from anywhere</span>
                     <div class="float-right">
                       <i class="fa fa-plus"></i>
                       <i class="fa fa-minus c-pink"></i>
@@ -153,51 +150,13 @@
                       <div class="info">
                         <ul class="list">
                           <li>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                            <p>Create, edit and share files on the go from your desktop, laptop, tablet or even from smartphones.</p>
                           </li>
                         </ul>
                       </div>
                     </div>
                   </div>
                 </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- ***** HELP ***** -->
-    <section class="help pt-4 pb-80">
-      <div class="container">
-        <div class="service-wrap">
-          <div class="row">
-            <div class="col-sm-12 col-md-6 col-lg-6">
-              <div class="help-container">
-                <div class="plans badge feat left bg-grey"><i class="fas fa-long-arrow-alt-left"></i></div>
-                <a href="hosting" class="help-item">
-                  <div class="img">
-                    <img class="svg ico" src="fonts/svg/cloudfiber.svg" alt="" />
-                  </div>
-                  <div class="inform">
-                    <div class="title">Go to Shared Hosting</div>
-                    <div class="description">Need similar power but a simpler solution?</div>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <div class="col-sm-12 col-md-6 col-lg-6">
-              <div class="help-container">
-                <div class="plans badge feat bg-grey"><i class="fas fa-long-arrow-alt-right"></i></div>
-                <a href="email" class="help-item">
-                  <div class="img">
-                    <img class="svg ico" src="fonts/svg/email.svg" alt="" />
-                  </div>
-                  <div class="inform">
-                    <div class="title">Go to Enterprise Email</div>
-                    <div class="description">Need more power and resources?</div>
-                  </div>
-                </a>
               </div>
             </div>
           </div>
