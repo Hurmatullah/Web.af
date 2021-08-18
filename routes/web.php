@@ -88,7 +88,8 @@ Route::get('/gsuite', [GsuiteController::class, 'index'])
     ->name('gsuite');
 
 // Contact us
-Route::get('/contact', [ContactController::class, 'index']);
+Route::get('/contact', [ContactController::class, 'index'])
+    ->name('contact');
 
 // Users
 
