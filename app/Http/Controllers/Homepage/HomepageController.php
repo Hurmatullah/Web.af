@@ -15,7 +15,7 @@ class HomepageController extends Controller
      */
     public function index()
     {
-        return Inertia::render('Homepage/Index.vue');
+        return Inertia::render('Homepage/Index');
     }
 
     /**
