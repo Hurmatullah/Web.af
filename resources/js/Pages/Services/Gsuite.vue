@@ -7,12 +7,12 @@
         <div class="row">
           <div class="col-sm-12 col-md-12">
             <div class="wrapper">
-              <h1 class="heading">SSL-Certificates</h1>
+              <h1 class="heading">G-Suit From Google</h1>
               <hr class="border border-white w-2/5" />
               <h3 class="subheading font-bold">
-                Secure your site and your customer’s data from theft.<br />
+                We’ll set your own domain as the Secondary Domain and you can start using G Suite Legacy. You also get Super Admin access and full control over the account.<br />
                 <span class="text-justify">
-                  SSL certificates are the most widely used and most powerful security technology to create an encrypted link between your site and the Internet browser where you protect your customers’ personal data
+                  Get custom email: @yourcompany.com and 50+ G Suite Apps for your Business
                 </span>
               </h3>
             </div>
