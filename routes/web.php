@@ -16,6 +16,7 @@ use App\Http\Controllers\Packages\WordpressHostingController;
 use App\Http\Controllers\Services\DomainRegistrationController;
 use App\Http\Controllers\Services\SSLCertificateController;
 use App\Http\Controllers\Services\GsuiteController;
+use App\Http\Controllers\Support\ContactController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -85,6 +86,9 @@ Route::get('/ssl-certificate', [SSLCertificateController::class, 'index'])
 // Gsuite
 Route::get('/gsuite', [GsuiteController::class, 'index'])
     ->name('gsuite');
+
+// Contact us
+Route::get('/contact', [ContactController::class, 'index']);
 
 // Users
 
