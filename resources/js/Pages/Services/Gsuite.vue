@@ -19,10 +19,6 @@
           </div>
         </div>
       </div>
-      <a class="gocontent godown gocheck" href="#features">
-        <img class="svg" src="fonts/svg/arrowdown.svg" height="80" alt="features" />
-        <span>Features</span>
-      </a>
     </div>
     <!-- ***** FEATURES ***** -->
     <section id="features" class="history-section feat01 sec-normal">
