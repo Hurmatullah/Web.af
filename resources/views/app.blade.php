@@ -14,6 +14,7 @@
     <!-- CSS styles -->
     <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet" />
     <link href="{{asset('css/owl.carousel.css')}}" rel="stylesheet" />
+    <link href="{{asset('css/magnific-popup.css')}}" rel="stylesheet">
     <link href="{{asset('css/filter.css')}}" rel="stylesheet">
     <link href="{{asset('css/mixitup.css')}}" rel="stylesheet">
     <link href="{{asset('css/idangerous.swiper.css')}}" rel="stylesheet" />
