@@ -2,7 +2,7 @@
   <div>
     <headers></headers>
     <div class="top-header exapath-w">
-      <div class="total-grad-inverse"></div>
+      <div class="total-grad-inverse" style="background:linear-gradient(240deg, #a5215e 0%,#ee5586 100%)"></div>
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
@@ -233,11 +233,9 @@
 import headers from '../Layouts/Headers/headers'
 import footers from '../Layouts/Footers/footers'
 export default {
-
-    components:{
-       headers,
-       footers
-    }
-
+  components: {
+    headers,
+    footers,
+  },
 }
 </script>

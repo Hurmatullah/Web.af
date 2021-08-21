@@ -76,34 +76,6 @@
                       <!-- <li class="menu-item"><inertia-link class="menu-item" :href="route('backup')" data-i18n="[html]submenu.backup"></inertia-link></li> -->
                     </ul>
                   </li>
-                  <li class="menu-item menu-item-has-children">
-                    <a class="v-stroke" href="#" data-i18n="[html]header.features"></a>
-                    <ul class="sub-menu">
-                      <li class="menu-item">
-                        <a href="http://inebur.com/whmcs/?systpl=antler" target="_blank" data-i18n="[html]submenu.whmcs"> </a>
-                        <div class="menu badge feat bg-pink">HOT</div>
-                      </li>
-                      <li class="menu-item">
-                        <a href="http://inebur.com/whmcs/cart.php?gid=2" target="_blank" data-i18n="[html]submenu.orderform"> </a>
-                        <div class="menu badge feat bg-grey">TOP</div>
-                      </li>
-                      <li class="menu-item">
-                        <a href="http://inebur.com/antler/email/" target="_blank" data-i18n="[html]submenu.whmcsemail"> </a>
-                        <div class="menu badge feat bg-grey">TOP</div>
-                      </li>
-                      <li class="menu-item"><a href="pricing" data-i18n="[html]submenu.pricing"> </a></li>
-                      <li class="menu-item"><a href="sliders" data-i18n="[html]submenu.sliders"> </a></li>
-                      <li class="menu-item">
-                        <a href="configurator" data-i18n="[html]submenu.config"> </a>
-                        <div class="menu badge feat bg-pink">NEW</div>
-                      </li>
-                      <li class="menu-item"><a href="404" data-i18n="[html]submenu.error"> </a></li>
-                      <li class="menu-item"><a href="login" data-i18n="[html]submenu.register"> </a></li>
-                      <li class="menu-item"><a href="login" data-i18n="[html]header.login"> </a></li>
-                      <li class="menu-item"><a href="elements" data-i18n="[html]submenu.elements"> </a></li>
-                      <li class="menu-item"><a href="sections" data-i18n="[html]submenu.sections"> </a></li>
-                    </ul>
-                  </li>
                   <li class="menu-item menu-item-has-children menu-last">
                     <a class="v-stroke" href="#" data-i18n="[html]header.support"></a>
                     <div class="sub-menu megamenu">
@@ -283,21 +255,6 @@
                     <li class="menu-item"><a href="checkout">Checkout</a></li>
                     <li class="menu-item"><a href="soon">Coming Soon</a></li>
                     <li class="menu-item"><a href="promos">Promotions</a> <i class="fas fa-tags c-pink ml-2"></i></li>
-                  </ul>
-                </li>
-                <li class="menu-item menu-item-has-children">
-                  <a>Features</a>
-                  <ul class="sub-menu">
-                    <li class="menu-item"><a href="http://inebur.com/whmcs/?systpl=antler" target="_blank">WHMCS Template </a></li>
-                    <li class="menu-item"><a href="http://inebur.com/whmcs/cart.php?gid=2?systpl=antler" target="_blank">Order Form Template </a></li>
-                    <li class="menu-item"><a href="pricing">Pricing Options</a></li>
-                    <li class="menu-item"><a href="sliders">Content Sliders</a></li>
-                    <li class="menu-item"><a href="configurator">Configurator</a></li>
-                    <li class="menu-item"><a href="404">404 Error</a></li>
-                    <li class="menu-item"><a href="login">Register</a></li>
-                    <li class="menu-item"><a href="login">Client Area</a></li>
-                    <li class="menu-item"><a href="elements">Elements</a></li>
-                    <li class="menu-item"><a href="sections">Sections</a></li>
                   </ul>
                 </li>
                 <li class="menu-item menu-item-has-children menu-last">
